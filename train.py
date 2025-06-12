@@ -6,8 +6,8 @@ from argparse import Namespace
 from typing import Dict, List, Tuple
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler
 from torch.utils.data.distributed import DistributedSampler
+from torch.optim import AdamW
 from transformers import (
-     AdamW,
      AutoConfig,
      AutoTokenizer,
      PreTrainedModel,

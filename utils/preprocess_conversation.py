@@ -3,6 +3,7 @@ import pickle
 import ast
 from os.path import join
 from tqdm import tqdm
+from translate import translate_conversation
 
 
 def knowledge_to_sequence(kg):
@@ -221,9 +222,9 @@ def get_pkl(dataset):
                     dialog["ref_ents"] = atrun["reference_entities"]
                     dialog["kg_tripe"] = atrun["kg_tripe"]
 
-
                     formatted_dialogues.append(dialog)
                     previous_id=current_id
+
 
             elif dataset=="camrest" or dataset=="woz2.1":
                 dialog = {}
@@ -241,7 +242,7 @@ def get_pkl(dataset):
 
                 formatted_dialogues.append(dialog)
 
-        pickle.dump(formatted_dialogues, open(join(dataroot, datasplit+".pkl"),"wb"))
+        pickle.dump(formatted_dialogues, open(join(dataroot, datasplit+"_vi.pkl"),"wb"))
 
 
 def process_entities(dataset):
@@ -266,5 +267,5 @@ def process_data(dataset="incar"):
 
 if __name__=="__main__":
     process_data(dataset="incar")
-    process_data(dataset="camrest")
+    # process_data(dataset="camrest")
     # process_data(dataset="woz2.1")
