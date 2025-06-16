@@ -81,7 +81,12 @@ def get_trie(kgdict, kgsort, KG, tokenizer):
     for k, v in kgdict.items():
         v.append(['name', k])
         for idx in range(len(v)):
-            tpkg[v[idx][0]] = v[idx][1]
+            if len(v[idx]) >= 2:
+                tpkg[v[idx][0]] = v[idx][1]
+            else:
+                # Handle case where v[idx] has only one element or is empty
+                print(f"Warning: Skipping malformed knowledge entry: {v[idx]}")
+                continue
         ids += [[tp, tpkg[tp]] for tp in kgsort[0] if tp in list(tpkg.keys())]
         # ids = list(chain(*ids))+["[EKG]"]
         ids = ["[USR]"]+list(chain(*ids))+["[EKG]"]
