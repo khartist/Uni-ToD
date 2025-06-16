@@ -2,7 +2,7 @@ import os, json
 from itertools import chain
 
 class Trie(object):
-    """自定义Trie树对象，用来保存知识库
+    """自定义Trie树对象, 用来保存知识库
     """
     def __init__(self, value_key=-1):
         self.data = {}
