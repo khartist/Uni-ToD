@@ -278,8 +278,9 @@ def main():
         level=logging.INFO if args.local_rank in [-1, 0] else logging.WARN,
     )
 
-    if args.dataset=="incar":
+    if args.dataset=="incar" or args.dataset=="incar_vi":
         from scripts.dataset_incar import EvalDataset, Dataset, SPECIAL_TOKENS
+    
     elif args.dataset=="camrest":
         from scripts.dataset_camrest import EvalDataset, Dataset, SPECIAL_TOKENS
     elif args.dataset=="woz2.1":
