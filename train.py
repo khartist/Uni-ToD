@@ -244,7 +244,7 @@ def main():
                         help="Attention matrix is computed based on the attn_type")
     parser.add_argument("--knowledge_file", type=str, default="knowledge.json",
                         help="knowledge file name.")
-    parser.add_argument("--dataset", type=str, default="incar", choices=["incar","camrest", "woz2.1"],
+    parser.add_argument("--dataset", type=str, default="incar", choices=["incar", "incar_vi", "camrest", "woz2.1"],
                         help="dataset name.")
     parser.add_argument("--scheduler", type=str, default="linear", choices=["linear","reducelr"])
     parser.add_argument("--eval_dataset", type=str, default="val",
