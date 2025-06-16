@@ -198,14 +198,17 @@ def truncate_long_context(long_text):
 
 def get_pkl(dataset):
     dataroot = "../data/"+dataset
-    splits = ["val","test","train"]
-    
+    # splits = ["val","test","train"]
+    splits = ["train_vi","val_vi","test_vi"]
+
     for datasplit in splits:
+        # raw_data = json.load(open(join(dataroot, datasplit+".json")))
         data = json.load(open(join(dataroot, datasplit+".json")))
         formatted_dialogues = list()
         previous_id = ""
         for dial_id, dg in tqdm(data.items(), desc=f"get pkl: {dataset}:{datasplit}::: "):  # only show progress bar in one process
             current_id = dial_id
+ 
             if dataset=="incar":
                 for t,atrun in enumerate(dg["utterances"]):
                     dialog = {}
@@ -219,8 +222,14 @@ def get_pkl(dataset):
                     else:
                         dialog["history"] = formatted_dialogues[-1]["history"] + [dg["utterances"][t-1]["response"],atrun["user"]]
 
-                    dialog["ref_ents"] = atrun["reference_entities"]
-                    dialog["kg_tripe"] = atrun["kg_tripe"]
+                    if "reference_entities" in atrun:
+                        dialog["ref_ents"] = atrun["reference_entities"]
+                    else:
+                        dialog["ref_ents"] = []
+                    if "kg_tripe" in atrun:
+                        dialog["kg_tripe"] = atrun["kg_tripe"]
+                    else:
+                        dialog["kg_tripe"] = []
 
                     formatted_dialogues.append(dialog)
                     previous_id=current_id
@@ -242,7 +251,7 @@ def get_pkl(dataset):
 
                 formatted_dialogues.append(dialog)
 
-        pickle.dump(formatted_dialogues, open(join(dataroot, datasplit+"_vi.pkl"),"wb"))
+        pickle.dump(formatted_dialogues, open(join(dataroot, datasplit+".pkl"),"wb"))
 
 
 def process_entities(dataset):

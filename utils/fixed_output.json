@@ -1,0 +1,257 @@
+{
+    "1": {
+      "task": "navigate",
+      "utterances": [
+        {
+          "user": "Bãi đỗ xe gần nhất ở đâu?",
+          "response": "Bãi đỗ xe gần nhất là dish_parking tại 550_alester_ave. Bạn có muốn chỉ đường đến đó không?",
+          "reference_entities": [
+            "parking_garage",
+            "550_alester_ave",
+            "dish_parking"
+          ],
+          "kg_tripe": [
+            [
+              "dish_parking",
+              "distance",
+              "2_miles"
+            ],
+            [
+              "dish_parking",
+              "traffic_info",
+              "có chướng ngại vật gần đó"
+            ],
+            [
+              "dish_parking",
+              "poi_type",
+              "bãi đỗ xe"
+            ],
+            [
+              "dish_parking",
+              "address",
+              "550_alester_ave"
+            ]
+          ]
+        },
+        {
+          "user": "Vâng, làm ơn chỉ đường qua một tuyến đường tránh tất cả các khu vực kẹt xe nặng nếu có thể.",
+          "response": "Có vẻ như có một chướng ngại vật được báo cáo trên tuyến đường, nhưng tôi vẫn sẽ tìm tuyến đường nhanh nhất đến 550_alester_ave.",
+          "reference_entities": [
+            "550_alester_ave"
+          ],
+          "kg_tripe": [
+            [
+              "dish_parking",
+              "distance",
+              "2_miles"
+            ],
+            [
+              "dish_parking",
+              "traffic_info",
+              "có chướng ngại vật gần đó"
+            ],
+            [
+              "dish_parking",
+              "poi_type",
+              "bãi đỗ xe"
+            ],
+            [
+              "dish_parking",
+              "address",
+              "550_alester_ave"
+            ]
+          ]
+        },
+        {
+          "user": "Cảm ơn bạn rất nhiều vì đã giúp đỡ.",
+          "response": "Không có gì!",
+          "reference_entities": [],
+          "kg_tripe": [
+            [
+              "dish_parking",
+              "distance",
+              "2_miles"
+            ],
+            [
+              "dish_parking",
+              "traffic_info",
+              "có chướng ngại vật gần đó"
+            ],
+            [
+              "dish_parking",
+              "poi_type",
+              "bãi đỗ xe"
+            ],
+            [
+              "dish_parking",
+              "address",
+              "550_alester_ave"
+            ]
+          ]
+        }
+      ],
+      "kg": [
+        [
+          "dish_parking",
+          "distance",
+          "2_miles"
+        ],
+        [
+          "dish_parking",
+          "traffic_info",
+          "có chướng ngại vật gần đó"
+        ],
+        [
+          "dish_parking",
+          "poi_type",
+          "bãi đỗ xe"
+        ],
+        [
+          "dish_parking",
+          "address",
+          "550_alester_ave"
+        ],
+        [
+          "stanford_oval_parking",
+          "distance",
+          "6_miles"
+        ],
+        [
+          "stanford_oval_parking",
+          "traffic_info",
+          "không tắc đường"
+        ],
+        [
+          "stanford_oval_parking",
+          "poi_type",
+          "bãi đỗ xe"
+        ],
+        [
+          "stanford_oval_parking",
+          "address",
+          "610_amarillo_ave"
+        ],
+        [
+          "willows_market",
+          "distance",
+          "4_miles"
+        ],
+        [
+          "willows_market",
+          "traffic_info",
+          "có va chạm xe gần đó"
+        ],
+        [
+          "willows_market",
+          "poi_type",
+          "cửa hàng tạp hóa"
+        ],
+        [
+          "willows_market",
+          "address",
+          "409_bollard_st"
+        ],
+        [
+          "the_westin",
+          "distance",
+          "2_miles"
+        ],
+        [
+          "the_westin",
+          "traffic_info",
+          "tắc đường vừa phải"
+        ],
+        [
+          "the_westin",
+          "poi_type",
+          "trạm dừng nghỉ"
+        ],
+        [
+          "the_westin",
+          "address",
+          "329_el_camino_real"
+        ],
+        [
+          "toms_house",
+          "distance",
+          "1_miles"
+        ],
+        [
+          "toms_house",
+          "traffic_info",
+          "tắc đường nghiêm trọng"
+        ],
+        [
+          "toms_house",
+          "poi_type",
+          "nhà bạn bè"
+        ],
+        [
+          "toms_house",
+          "address",
+          "580_van_ness_ave"
+        ],
+        [
+          "pizza_chicago",
+          "distance",
+          "4_miles"
+        ],
+        [
+          "pizza_chicago",
+          "traffic_info",
+          "tắc đường nghiêm trọng"
+        ],
+        [
+          "pizza_chicago",
+          "poi_type",
+          "nhà hàng pizza"
+        ],
+        [
+          "pizza_chicago",
+          "address",
+          "915_arbol_dr"
+        ],
+        [
+          "valero",
+          "distance",
+          "6_miles"
+        ],
+        [
+          "valero",
+          "traffic_info",
+          "có va chạm xe gần đó"
+        ],
+        [
+          "valero",
+          "poi_type",
+          "trạm xăng"
+        ],
+        [
+          "valero",
+          "address",
+          "200_alester_ave"
+        ],
+        [
+          "mandarin_roots",
+          "distance",
+          "2_miles"
+        ],
+        [
+          "mandarin_roots",
+          "traffic_info",
+          "không tắc đường"
+        ],
+        [
+          "mandarin_roots",
+          "poi_type",
+          "nhà hàng Trung Quốc"
+        ],
+        [
+          "mandarin_roots",
+          "address",
+          "271_springer_street"
+        ]
+      ]
+    },
+    "2": "{\"task\": \"navigate\", \"utterances\": [{\"user\": \"cây xăng gần nhất ở đâu?\", \"response\": \"có một cây xăng 76 cách 4 dặm.\", \"reference_entities\": [\"76\", \"4_miles\"], \"kg_tripe\": [[\"76\", \"distance\", \"4_miles\"], [\"76\", \"traffic_info\", \"moderate_traffic\"], [\"76\", \"poi_type\", \"gas_station\"], [\"76\", \"address\", \"91_el_camino_real\"]]}, {\"user\": \"địa chỉ là gì?\", \"response\": \"cây xăng 76 nằm ở 91_el_camino_real. Cách đó 4 dặm và giao thông vừa phải.\", \"reference_entities\": [\"91_el_camino_real\", \"gas_station\", \"4_miles\", \"moderate_traffic\", \"76\"], \"kg_tripe\": [[\"76\", \"distance\", \"4_miles\"], [\"76\", \"traffic_info\", \"moderate_traffic\"], [\"76\", \"poi_type\", \"gas_station\"], [\"76\", \"address\", \"91_el_camino_real\"]]}, {\"user\": \"cảm ơn!\", \"response\": \"Không có gì ạ!\", \"reference_entities\": [], \"kg_tripe\": [[\"76\", \"distance\", \"4_miles\"], [\"76\", \"traffic_info\", \"moderate_traffic\"], [\"76\", \"poi_type\", \"gas_station\"], [\"76\", \"address\", \"91_el_camino_real\"]]}], \"kg\": [[\"town_and_country\", \"distance\", \"4_miles\"], [\"town_and_country\", \"traffic_info\", \"moderate_traffic\"], [\"town_and_country\", \"poi_type\", \"shopping_center\"], [\"town_and_country\", \"address\", \"383_university_ave\"], [\"76\", \"distance\", \"4_miles\"], [\"76\", \"traffic_info\", \"moderate_traffic\"], [\"76\", \"poi_type\", \"gas_station\"], [\"76\", \"address\", \"91_el_camino_real\"], [\"stanford_shopping_center\", \"distance\", \"2_miles\"], [\"stanford_shopping_center\", \"traffic_info\", \"moderate_traffic\"], [\"stanford_shopping_center\", \"poi_type\", \"shopping_center\"], [\"stanford_shopping_center\", \"address\", \"773_alger_dr\"], [\"teavana\", \"distance\", \"3_miles\"], [\"teavana\", \"traffic_info\", \"moderate_traffic\"], [\"teavana\", \"poi_type\", \"coffee_or_tea_place\"], [\"teavana\", \"address\", \"145_amherst_st\"], [\"dominos\", \"distance\", \"4_miles\"], [\"dominos\", \"traffic_info\", \"moderate_traffic\"], [\"dominos\", \"poi_type\", \"pizza_restaurant\"], [\"dominos\", \"address\", \"776_arastradero_rd\"], [\"palo_alto_garage_r\", \"distance\", \"4_miles\"], [\"palo_alto_garage_r\", \"traffic_info\", \"road_block_nearby\"], [\"palo_alto_garage_r\", \"poi_type\", \"parking_garage\"], [\"palo_alto_garage_r\", \"address\", \"481_amaranta_ave\"], [\"stanford_express_care\", \"distance\", \"5_miles\"], [\"stanford_express_care\", \"traffic_info\", \"no_traffic\"], [\"stanford_express_care\", \"poi_type\", \"hospital\"], [\"stanford_express_care\", \"address\", \"214_el_camino_real\"], [\"palo_alto_medical_foundation\", \"distance\", \"3_miles\"], [\"palo_alto_medical_foundation\", \"traffic_info\", \"no_traffic\"], [\"palo_alto_medical_foundation\", \"poi_type\", \"hospital\"], [\"palo_alto_medical_foundation\", \"address\", \"611_ames_ave\"]}]}"
+}
