@@ -116,7 +116,7 @@ def write_generation_preds(output_file, dialog_ids, responses, ground_truths, ta
 
     with open(output_file, "w") as jsonfile:
         logger.info("Writing predictions to {}".format(output_file))
-        json.dump(new_labels, jsonfile, indent=2)
+        json.dump(new_labels, jsonfile, ensure_ascii=False, indent=2)
 
 
 def pad_ids(arrays, padding, max_length=-1):
