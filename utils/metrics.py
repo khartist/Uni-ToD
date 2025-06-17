@@ -1,5 +1,6 @@
 
 import json
+from types import NoneType
 from nltk import word_tokenize, ngrams
 from nltk.translate.bleu_score import sentence_bleu
 
@@ -54,6 +55,20 @@ class BLEU(Metric):
                     "count": 0
                 }
             },
+            "incar_vi": {
+                "schedule": {
+                    "scores": list(),
+                    "count": 0
+                },
+                "navigate": {
+                    "scores": list(),
+                    "count": 0
+                },
+                "weather": {
+                    "scores": list(),
+                    "count": 0
+                }
+            },
             "woz2.1": {
                 "attraction": {
                     "scores": list(),
@@ -84,7 +99,7 @@ class BLEU(Metric):
         ref_tokens = reference.split()
 
         bleu = sentence_bleu([ref_tokens], hyp_tokens)
-        if self.dataset == "incar" or self.dataset == "woz2.1":
+        if self.dataset == "incar" or self.dataset == "incar_vi" or self.dataset == "woz2.1":
             self.domain[self.dataset][task]["scores"].append(bleu)
             self.domain[self.dataset][task]["count"] += 1
         self._bleu += bleu
@@ -94,7 +109,7 @@ class BLEU(Metric):
         if self._count == 0:
             raise ValueError("BLEU-1 must have at least one example before it can be computed!")
 
-        if self.dataset=="incar" or self.dataset=="woz2.1":
+        if self.dataset=="incar" or self.dataset=="incar_vi" or self.dataset=="woz2.1":
             for k,v in self.domain[self.dataset].items():
                 print(self.dataset, k, sum(v["scores"])/v["count"])
         return self._bleu / self._count
@@ -126,6 +141,20 @@ class EntityF1:
                     "count": 0
                 }
             },
+            "incar_vi": {
+                "schedule": {
+                    "scores": list(),
+                    "count": 0
+                },
+                "navigate": {
+                    "scores": list(),
+                    "count": 0
+                },
+                "weather": {
+                    "scores": list(),
+                    "count": 0
+                }
+            },
             "woz2.1": {
                 "attraction": {
                     "scores": list(),
@@ -144,7 +173,7 @@ class EntityF1:
         self.entities = self.get_global_entities(dataset=dataset)
 
     def get_global_entities(self, dataset="incar"):
-        if dataset=="incar":
+        if dataset=="incar" or dataset=="incar_vi":
             with open('data/incar/kvret_entities.json') as f:
                 global_entity = json.load(f)
                 global_entity_list = []
@@ -171,9 +200,13 @@ class EntityF1:
                 else:
                     FN += 1
             for p in set(pred):
+                if self.entities is None:
+                    continue
                 if p in self.entities or p in local_kb_word:
                     if p not in gold:
                         FP += 1
+                    
+                
             precision = TP / float(TP + FP) if (TP + FP) != 0 else 0
             recall = TP / float(TP + FN) if (TP + FN) != 0 else 0
             F1 = 2 * precision * recall / float(precision + recall) if (precision + recall) != 0 else 0
@@ -186,7 +219,7 @@ class EntityF1:
         kb_temp = kb
         f1, c = self.compute_prf(gold=ref, pred=pred, kb_plain=kb_temp)
 
-        if self.dataset == "incar" or self.dataset == "woz2.1":
+        if self.dataset == "incar" or self.dataset == "incar_vi" or self.dataset == "woz2.1":
             self.domain[self.dataset][task]["scores"].append(f1)
             self.domain[self.dataset][task]["count"] += 1
 
@@ -194,7 +227,7 @@ class EntityF1:
         self.count+= c
 
     def compute(self):
-        if self.dataset=="incar" or self.dataset=="woz2.1":
+        if self.dataset=="incar" or self.dataset == "incar_vi" or self.dataset=="woz2.1":
             for k,v in self.domain[self.dataset].items():
                 print(self.dataset, k, sum(v["scores"])/v["count"])
         return self.score/(self.count+1e-30)

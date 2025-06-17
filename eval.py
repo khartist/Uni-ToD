@@ -132,7 +132,7 @@ def main():
     parser.add_argument("checkpoint", type=str, help="Saved checkpoint directory")
     parser.add_argument('--generate', action='store_true')
     parser.add_argument("--decode", type=str, default="basic", choices=["basic","beam"], help="decoding technique")
-    parser.add_argument('--dataset', type=str, default='incar', choices=['incar','camrest','woz2.1'])
+    parser.add_argument('--dataset', type=str, default='incar', choices=['incar','camrest','woz2.1', 'incar_vi'])
     parser.add_argument("--generation_params_file", type=str, default="",
                         help="JSON configuration file for generation-related configurations.")
     parser.add_argument("--top_weights", type=int, default=-1,
@@ -160,7 +160,7 @@ def main():
         level=logging.INFO if args.local_rank in [-1, 0] else logging.WARN,
     )
 
-    if args.dataset=="incar":
+    if args.dataset=="incar" or args.dataset=="incar_vi":
         from scripts.dataset_incar import EvalDataset
     elif args.dataset=="camrest":
         from scripts.dataset_camrest import EvalDataset

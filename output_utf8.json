@@ -1,0 +1,3620 @@
+[
+  {
+    "id": "",
+    "ground_truth": " Mấy giờ bạn cần uống thuốc?",
+    "response": " Bạn muốn muốn muốn muốn muốn muốnh phốnhốnh phốnhốnhốn đốnhốn đốốn đốốn đốn đốờ chiột ột ột đất đột đột đột đột đưột đưột đưắc nhột đưột đưột đ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, đã đặt lịch nhắc uống thuốc cho bạn lúc 7 giờ tối",
+    "response": " Không có giờ chiắc lúc giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiắc giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiắc hông có giờ chiờ chiờ chiờ chiạn lúc giờ chiờ chiờ chiờ chiờ chiờ chiờ chi�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Có một trạm Chevron.",
+    "response": " đây_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang dẫn bạn đến Chevron",
+    "response": " Không có gì !",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " 783_arcadia_pl là địa chỉ của trạm xăng Chevron",
+    "response": " Không có gì !",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì, rất sẵn lòng giúp đỡ",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " tôi nên tìm nhiệt độ thứ sáu cho thành phố nào ạ?",
+    "response": " Bạn muốn muốn muốn muốn muốn đứ Ba ờiốn đấp nào ?",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " vào thứ sáu, trời sẽ trong xanh ở Alhambra",
+    "response": " Không có giứ Ba đứ Ba đất đứ Sưứ Ba đứ Ba đứ Ba đứ Ba đứ Nhứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Baất đứ Baứ Baứ Baứ Ba ứ Baạn đứ Baứ Ba ứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " nhiệt độ sẽ từ 20f đến 30f ở Alhambra vào thứ sáu",
+    "response": " Không có giờ chiờ chiờ chiứ Ba ứ Baờ chiứ Baờ chiứ Ba bất đứ Baứ Baất đứ Baứ Baứ Baất đứ Baứ Baứ Ba ứ Baứ Baứ Baứ Baạn đứ Baứ Baứ Baứ Baứ Ba ứ Ba ứ Baứ Baạn đây ứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Có Whole Foods cách 2 dặm và Sigona Farmers Market cách 4 dặm. Chúng ta đi đâu?",
+    "response": " Bết ở đưở đưết đờiết đờiờiờiờiết đờiết đở đờiết đờiờiờiờiết đờiờiờiờiết đưết đườiết đườiờiờiờiờiết đết đưết đưết",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Sigona Farmers Market nằm cách 4 dặm và không kẹt xe. Địa chỉ là 638 Amherst St.",
+    "response": " Không có giờ chiờ chiờ chiết đờ chiết đờ chiờ chiết đờ chiờ chiết đưết đưết đờ chiết đườ chiờ chiờ chiờ chiết đườ chiết đờ chiết đưết đườ chiờ chiết đưườiờiờiết đưườiết đờ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuyệt vời, rất vui vì đã giúp được bạn. Chúc bạn một ngày tốt lành. Chúng ta sẽ đến đó sớm thôi.",
+    "response": " không có giặt đờ chiết đờ chiết đờng có gi đết đờng có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Thời tiết ở Fresno trong 48 giờ tới sẽ nhiều mây và có tuyết.",
+    "response": " Bết ở Fresno , thết ở San Francisco ,",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờiờiờiờiờiờiờiết đờiờiờiết đờiờiờiờiết điờiờiờiờiờiờiờiờiờiờiờiết điờiờiờiờiờiờiờiời đời điờiờiời điờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " nhà là nơi trái tim bạn thuộc về, tại 56_cadwell_street.",
+    "response": " đâuở đâu đâuở đâuở đâuở đâuở đâuở đâuở đâuở đâuở đâuở đâuở đâuở đâuở đâuở đâuở đã đã đã đở đã đã đã đở đở đã đã đã đở �",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn còn cách nhà 3_miles và đang có ùn tắc giao thông.",
+    "response": " không có giờ chiạn đờng có giờ chiất đưất đờiất đờ chiời đất đờ chiất đờiờiạn đời đời đời đời đờiời đờiời đờiờiờiờiờiời",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì, tài xế!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " rất vui được giúp đỡ",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chúng ta cách Whole Foods và Safeway 4_miles: bạn muốn chọn cái nào?",
+    "response": " Bạn muốn muốn muạn muốn muốn muất ở đâuốnhốn nhất ở San Francisco trốn đất đở San Francisco vào thở San Francisco thờ chiở San Francisco trở San Francisco trở San Francisco trở San Francisco sở San Francisco trở Sanf vào thở Sanf vào thất vào thất vào thất vào thở Sanf đưất đưất đưất �",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Safeway nằm ở địa chỉ 452_arcadia_pl",
+    "response": " Không có giở San Francisco vào thất đâuất đớiở San Francisco giốất vào thờ chiờ chiờ chiở San Francisco giở San Francisco thở San Francisco giở San Francisco vào thở San Francisco giất vào thở Sanf .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Mọi thứ đã sẵn sàng, lái xe cẩn thận!",
+    "response": " Không có giờng có giủn đớiớiờng có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nhà của Jill nằm cách đây 5_miles tại 347_alta_mesa_ave",
+    "response": " Bạn muạn muở thốn muở thàn muở thàn đâuở thàn tông có giốn đâuở đở đâuở đâuở đở đở đâuẽ đở đâuở đở đở đở đâuở đở đở đất đưở đất đưở đưất đưở đưất đưở �",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuyến đường nhanh nhất là đến 347_alta_mesa_ave, cách 5_miles. Chúng ta sẽ đến nơi trong chốc lát.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nhiệt độ sẽ là 80f vào thứ Ba ở Brentwood.",
+    "response": " Bốn muốn muộc nhộc nhiộc nhất độc nhất độc nhiộc nhiất độc nhiộc nhộc nhiộc nhộc nhiất độc hất đất độc nhất đưất đưất đưất đưất đưộc nhất đưột đưộc đư",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có giờ chiờ chiột đột đột đột đột đột đưất đưột đưột đưột đưất đưất đưột đưất đưột đưột đưưột đưột đưột đưưưột đưưưột đưười đưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, tôi đang đặt lịch bữa tối thứ Sáu với mẹ lúc 11 giờ sáng.",
+    "response": " đở đờiờiờiờiặt lúc lúc lúc lúc hờiờiặt lúc lúc lúc lúc lúc giờiờiờiờiờiờiặt lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " không có giờiờiờiặt đười đườiờiờiờiặt đờiờiờiặt lúc đườiời đười đười đườiời đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiặt lúc hôiờiời",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " bãi đậu xe gần nhất là civic_center_garage, nằm cách 4_miles tại 270_altaire_walk",
+    "response": " đờiết đờiết đờiết đờiờiết đờiết đờiờiết đờiết đết đườiết đưết đờiết đưết đười đời đưết đười đời đ�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giờng có giờng có giến đường có giờiờng có giến đưến đưến đưến đường có gi đến đết đưết đưết đờng có gì ._m đười đười đưết đư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " stanford_express_care ở địa chỉ 214_el_camino_real",
+    "response": " không có giết đột đờ chiột đất đột đột lúc .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " chúc một ngày tốt lành",
+    "response": " không có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " tôi nên kiểm tra tuyết ở đâu?",
+    "response": " Bết đết đốn muốn muốn muốn muốn đốn đủn đốủn đờ chiốn đờiết đờiờiết đờiờiết đờiờiết đờiớiết đờiết đờiết đưết đờiết đờiờiết đời",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " tuần này sẽ không có tuyết ở Corona",
+    "response": " Không có mưưưưưưa vào thốn này đây ờiờ chiẽ không có giờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiết vào thờ chiờ chiờ chiờ chiết đưết đết đờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiết đờ chiờ chi",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì, tài xế của tôi!",
+    "response": " Không có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùn đưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưết đưưưưưưưưưưưưưưưưưưưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi sẽ đặt lời nhắc bữa tối vào lúc mấy giờ?",
+    "response": " Bốn muở đờiột đờiột đẽ đột lúc lúc hột lúc hột lúc hột lúc hột lúc hột lúc nhột lúc hột lúc lúc hột lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi sẽ đặt lời nhắc cho bữa tối vào 7 giờ tối, vào ngày mùng 6 tháng này với Marie.",
+    "response": " không có giộc lúc lúc giất lúc hông có giạn đưột lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lờiạn lúc lờiạn lờiờiờiờiờiờiốườiờiờiờiạn lúc hôiờiờiờiờiờiờiờiốn lào ờiờ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Trời sẽ không ấm ở Compton vào thứ Tư.",
+    "response": " Bời tiứ Ba thào thào thào thào thào thào thào thào thào thào thào thào thào thào thào thào thào thào thào thào thứ Ba thào thào thào thào thứ Ba thào thứ Ba thào thứ Ba thào thứ Ba thứ Ba thứ Ba thứ Ba thứ Ba thứ Ba thứ Ba thông có gi thông có giứ Ba thông có giứ Ba thông có giứ Ba thông có gi thông",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giứ Ba vào thứ Ba thứ Ba vào thứ Ba vào thứ Ba vào thứ Ba vào thứ Ba vào thứ Ba vào thứ Ba vào thứ Ba thứ Ba vào thứ Ba vào thứ Ba ứ Ba thông có giứ Ba vào thông có giứ Ba bất vào thông có giứ Baứ Ba bứ Ba báo thông có giứ Baạn đứ Baứ Baứ Baứ Ba�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " lời nhắc về bóng đá vào ngày 11 tháng này lúc 1 giờ chiều với Marie đã được đặt",
+    "response": " Bốnh phốn đở đở đờ chiềuều ều ều ều ều ều ều vào ngày lúc đềuều ều ều ềuều ều vào ngày vày .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " luôn sẵn lòng",
+    "response": " Không có giềuềuềuờ chiốềuều vào thềuều vào thều vào thều vào thềuờng có giều vào thều ều ều ều vào thều ều ều ời đều ều ều ờiều ờiờiời đờiạn đườiờiờiờiờiờiố�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn tôi đặt lịch vào lúc mấy giờ?",
+    "response": " Bặt lặt lốn muặt lặt lốn lặt lốn muốn lặt lốn lốn lốn lốn lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được thôi, tôi đã đặt lịch hẹn của bạn vào 3 giờ chiều thứ Bảy. Chúc bạn vui vẻ!",
+    "response": " Không có giốn lúc giứ Ba vào ngày .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nhà bạn của bạn nằm trên đường 5677_southwest_4th_street, có tắc đường vừa phải trên đường đi của chúng ta nhưng chúng ta chỉ cách đó 1_miles.",
+    "response": " Bết đưết đưốn muốn muốn muết đưốn đốưa đốờiời đờiờiết đở đết đờiờiờiờiờiờiời đờiờiờiờiết đết đết đưết đờiết đời đưết đời đư",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chắc hẳn hôm nay là một ngày vất vả đối với bạn nếu bạn không nhớ địa chỉ nhà của mình là 56_cadwell_street. Tôi đùa thôi, đừng làm hỏng tôi nhé.",
+    "response": " Không có giết đờ chiờ chiết đời đến đết đời đết đết đờiời đết đười đười đết đết đười đưết đưa bời đười đườiờiời đn đườiết đườiờiốưết đư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết về tuyết ở thành phố nào hôm nay?",
+    "response": " Bết ốn muết ở đốn đết ở đở đở đở đết đết đây ở thết đở đết đở đở đở đở đở đở đở đở đở đết đưết đưết đở đưết đưất đưở đưết đưết đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hôm nay ở Cleveland sẽ không có tuyết.",
+    "response": " không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, đang lên lịch một cuộc họp với sales_team vào lúc 9 giờ sáng ngày 11 tháng này.",
+    "response": " Lúc lúc lúc hốn lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì ạ",
+    "response": " Không có giộc lúc giộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn quan tâm đến thành phố nào?",
+    "response": " Bời tiời tiời tiời tiời tiời tiờiờiờiời tiết ờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Los_Angeles, hôm nay trời sẽ mưa và nhiệt độ từ 40f - 60f. Ngày mai trời sẽ ấm và nhiệt độ từ 60f - 80f.",
+    "response": " Không có giờiờiờiờiờiờiờiờiờiờiờiờiết đờiờiờiờiờiờiờiờiết đờiờiờiờiết đờiờiờiết đết đờiờiết đờiết đờiờiết đời đờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giết đườiờiẽ đờ chiờiờiẽ có gi đưết đết đờiết đưười đười đưưười đười đườiời đây ời đườiờiờiờiết đườiờiờiết đưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Có Midtown_Shopping_Center cách 3 dặm và đường đi không kẹt xe. Bạn có muốn đặt điểm đến này trên GPS không?",
+    "response": " không có giờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiất đờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang cài đặt GPS đến Midtown_Shopping_Center. Còn gì nữa không?",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " hacienda_market là cửa hàng tạp hóa gần nhất, cách 1 dặm.",
+    "response": " Không có giờiờiờiờiết đờiờiờiờiờiờiờiờiết đờiờiết đờiết đườiết đưết đờiời đười đết đườiời đời đời",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " đang thiết lập điều hướng đến 1313_chester_ave. có một rào chắn gần đó, vì vậy hãy lái xe cẩn thận.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cho thành phố nào ạ?",
+    "response": " Bết ời tiời tiốn muời tiời tiời tiời tiời tiời tiời tiờiờiời tiờiờiờiờiờiờiờiết ờiờiờiờiờiờiờiờiờiờiờiờiờiờiết vào thờiờiời điờiất điờiời",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tại downtown_chicago, thứ Hai sẽ ẩm ướt, thứ Ba có tuyết, thứ Tư khô ráo, thứ Năm có sương giá, thứ Sáu có mưa phùn, thứ Bảy và Chủ Nhật trời quang đãng.",
+    "response": " không có giờiết đết đườiờiết đờiờiờiờiết đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết điờiờiờiờiời đưạiờiời điờiờiời đờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì ạ!",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hoạt động tennis của bạn là vào ngày 4 lúc 5 giờ chiều và chị gái bạn sẽ tham dự.",
+    "response": " đây đây đờiờiời đờiột đờiột đột đột đột đờiột đột đột đột đột đưột đưột đột đột đưột đưột đưạn đưột đưột đưất đưột đư",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " không có giờ chiờ chiất đườ chiờ chiờ chiờ chiột đờ chiờ chiột đưột đờ chiờ chiột đột đờ chiột đườiạn đờiờiờiờiời đờiời đờiờiời đườiờiạn đườiờiời�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn đặt lịch họp vào thời gian và ngày nào?",
+    "response": " Bặt lặt lốn muốn muốn muốn muốn lốn lốn lốn lốn lốn lốn lốn lốn lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lú",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang đặt lịch họp vào Thứ Bảy lúc 1 giờ chiều với sales_team để go_over_budget",
+    "response": " Không có giủn lúc giặt lúc giờ chiờ chiờ chiờ chiứ Ba vào ngào thứ Ba ứ Ba_m vào ngào thứ Baứ Baặt lúc giứ Baứ Baứ Baặt lúc lúc giặt lào thặt lào thứ Baứ Baứ Baặt lào thứ Baặt lào thứ Baứ Baứ Baứ Baứ Baứ Baặt lào thứ Ba�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết thời tiết ở thành phố nào?",
+    "response": " Thôm này ời tiời tiết đờiết đờiết đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết điết điờiờiờiờiờiết đ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Dự báo hôm nay và ngày mai ở Durham sẽ không có mưa phùn.",
+    "response": " Không có giờ chiờ chiờ chiết ờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiết vày ờ chiến đờ chiờ chiờ chiờ chiết đờ chiờ chiết đờ chiết đờ chiờ chiờiờ chiờiời đờiời đời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có gùn đờ chiờ chiờ chiờ chiến đờ chiờ chiết đờiờiờiời đờiờiời đờiết đườiờiời đười đời đưười đờiết đưườiờiờiờiờiờiờiờiờiờiờiờiết đn",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn nghe dự báo thời tiết cho thành phố nào?",
+    "response": " Bết ở Cleveland , báo thời tiời tiời tiết đờiờiờiờiết ờiờiờiờiết ờiờiờiờiờiờiờiờiờiờiờiờiờiết điờiết điờiờiờiờiờiờiờiờiờiời điết đi�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " ở mountain_view, hôm nay trời sẽ nhiều mây và ngày mai có bão",
+    "response": " không có giờiờiờiờiờiờiờiờiờiờiất đờiờiờiờiờiờiờiờiờiờiờiạn đạn đờiờiờiờiờiờiờiờiờiất đờiờiờiờiờiờiờiờiờiời đờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì!",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiạn đờ chiờ chiờ chiờ chiờiờ chiờ chiết đờ chiờ chiờ chiờiờiờiờiờiờiờiờiờiờiờiờiạn đn đn đờiờiờiế",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn tôi tìm dự báo thời tiết tuần này ở đâu?",
+    "response": " Bết ở thàn muời tiời tiết ở thành phốn đết ờiờiở San Francisco trờiờiờiờiờiờiết đờiờiờiờiờiờiờiờiờiờiờiờiờiờiết đết đườiời đết đờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Brentwood tuần này sẽ không nóng đâu.",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiết vào thờ chiờ chiết đờ chiờ chiết đờ chiờ chiờ chiờ chiết đờ chiết đờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờiờ chiờiời �",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chỗ gần nhất là palo_alto_garage_r, cách đó chỉ 1 dặm.",
+    "response": " đốây vào đờiần đây .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiất đạn đạn đờ chiờ chiạn đật đạn đạn đạn đờ chiật đạn đờ chiờ chiờ chiờ chiờ chiờ chiạn đờ chiờ chiờ chiời đờ chiờ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Redwood City cuối tuần này sẽ không có mưa phùn.",
+    "response": " Bần muần muốn muốn đẽ không có mưa báo ?",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " đang dẫn đường về nhà",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " nhà là 5671_barringer_street có gì khác tôi có thể giúp bạn không?",
+    "response": " không có giờ chiờ chiờ chiờ chiờ chiờ chiất lào thờ chiờ chiất đườ chiờ chiờ chiờ chiờ chiờ chiất lúc giờ chiất đườ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờiờ chiạn đờiời�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " đã hiểu, sẽ thực hiện ngay!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì, tôi luôn sẵn lòng giúp đỡ",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn đặt lịch hẹn vào lúc mấy giờ ạ?",
+    "response": " Bặt lúc hặt lúc hặt lúc hặt lúc hặt lúc lúc hặt lúc lúc hặt lúc lúc lúc lúc hặt lúc hốn lúc hứ Hai đặt lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi đã đặt lịch hẹn với bác sĩ vào ngày 12 lúc 7 giờ tối rồi ạ.",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì ạ.",
+    "response": " Không có giờ chiặt đặt đặt đặt lúc lúc hặt đặt lúc đưặt đờiặt đờiời đờiều đờiờiờiờiờiờiặt đờiờiờiờiờiặt đặt đờiờiờiốn lày ờiốn lày ốặt lày ờ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " vào thứ sáu, nhiệt độ cao nhất ở mountain_view được dự báo là 50f",
+    "response": " Không đờiộc hông độc nào thộc nào ?",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giứ Ba đứ Ba đứ Baộc đứ Ba đứ Baứ Baứ Ba đứ Baất đất đã đứ Baứ Baứ Baứ Baất đứ Baất đứ Baứ Baất đứ Baứ Baứ Baứ Ba ứ Baứ Baứ Ba ứ Baạn đứ Baứ Baứ Baứ Baạnhứ Baứ Baứ Baứ Baứ Baứ Ba�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " được, tôi sẽ nhắc bạn về buổi yoga_activity của bạn với mother đã lên lịch vào the_15th của tháng này",
+    "response": " Không có giắc hông có giủnhứ Ba vào thều vào thứ Ba vào thứ Ba vào ngào ngào thứ Ba vào thứ Ba vào thứ Ba vào thứ Ba vào thứ Ba vào thứ Ba ứ Ba vào thứ Ba vào thứ Ba vào thạn vào thắc có giứ Baứ Baứ Ba vào thông có giứ Baạn có giứ Ba vào thông có g",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " đặt nhắc nhở cho buổi yoga_activity với mother của bạn vào the_15th lúc 3pm",
+    "response": " không có giắc hông có giờ chiờng có giờ chiờ chiờ chiờ chiạn lúc có giờng có giờiời đờiời đờiờiờiời đờiờiời đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hoạt động tennis tiếp theo của bạn là vào the_4th lúc 5pm với mẹ của bạn",
+    "response": " không có giộc giộc giộc giộc giộc giộc giộc hông có giộc giộc giộc giộc giộc giộc giộc giộc giạn đưạn điộc giộc giạn giạn đưạn điộc giộc gi điạn đưộc gi đư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ",
+    "response": " không có giộc giạn độc độc giộc độc độc độc đưộc .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " stanford_express_care đang tiện đường đi.",
+    "response": "",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang dẫn đường đến stanford_express_care tại 214_el_camino_real. Tuy nhiên, có kẹt xe nặng trên đường đến đó.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " tôi sẽ nhanh chóng đặt lịch bơi vào thứ hai ngày 1 với bố của bạn lúc 4 giờ chiều",
+    "response": " đốứ Baứ Ba đứ Baứ Ba đứ Ba đứ Ba vào thứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đặt đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Baứ Baứ Ba đứ Ba ứ Baứ Baứ Baứ Baặt đứ Baứ Baứ Baứ Baứ Baứ Ba�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giứ Ba đứ Baứ Baứ Ba vào thứ Ba đứ Baứ Baứ Baứ Baứ Baứ Baứ Ba vào thứ Baặt lúc bứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baặt lào thứ Baứ Baặt đứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Durham không dự báo tuyết trong tuần này đâu.",
+    "response": " Bạn muết ở thàn muốn muốn muốn muốn muốn đây ở đết đờiết đủn đờiất đở đở đất đất ở đở đở đở đất đở đở đở đở đưở đưất đưở đưạn đưất đưết đở �",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn biết thời tiết ở thành phố nào?",
+    "response": " Bết ốn muở thàn muời tiời tiết ở thành phết ở San Francisco dờiết ở San Francisco thết đờ chiở San Francisco vào thờiở San Francisco thờiết ở San Francisco thở San Francisco thở San Francisco giở San Francisco thở Sanf vào thở Sanf vào thở Sanf thở Sanf .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuần này ở Cleveland, thời tiết sẽ là trời quang đãng vào thứ Hai, có sương vào thứ Ba, có bão vào thứ Tư, mưa phùn vào thứ Năm, nhiều mây vào thứ Sáu, âm u vào thứ Bảy và trời mưa vào Chủ Nhật",
+    "response": " Không có giờiờiết đờiờ chiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết ờiết điờiết điết đườiết đưết đười đưết đườiờiết đười đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì!",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Thứ Tư ở New York sẽ khô ráo.",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giứ Ba thứ Ba đứ Ba đứ Ba ứ Ba vào thứ Ba đứ Ba ứ Ba ứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đất đứ Ba đứ Baứ Baứ Baứ Ba đứ Baứ Ba ứ Baứ Baứ Ba ứ Baứ Baứ Ba ứ Ba báo thông có giứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết dự báo cho ngày nào ạ?",
+    "response": " Bết ở San Francisco thốn muốn muốn muời tiốn đờiờiờiời tiờiết đờiờiờiờiờiờiờiờiờiờiờiờiờiờiết đờiờiết đờiờiờiờiờiờiời điờiờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuần này ở Seattle thời tiết dự báo sẽ âm u, nhiều mây, có gió, có sương mù, mưa phùn, ấm áp và khô ráo.",
+    "response": " không có giờ chiờ chiờ chiờ chiờ chiờ chiất lúc báo thờ chiờ chiờ chiờ chiờ chiết lúc giờ chiờ chiờ chiạn đườ chiết đưạn đườ chiờ chiờ chiết lào thờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiời đườiờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì ạ",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết cho thành phố nào?",
+    "response": " Bết ời tiời tiời tiời tiời tiời tiời tiờiời tiờiờiết ờiờiờiờiờiờiờiờiờiờiờiờiờiết đờiờiờiờiờiờiết điờiờiờiờiờiờiết điờiờiết đi",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Compton, nửa đầu tuần sẽ mưa, sau đó có sương mù vào nửa cuối tuần và trời sẽ khô ráo vào cuối tuần.",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đết đết đờ chiờ chiết đờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiết đườ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Trận tennis của bạn vào thứ Ba lúc 11 giờ sáng.",
+    "response": " Bạn muạn muốn muốn muời tiốn muốn muốn đốn đốốn đủn đờiủn đủn đủa đủa bờ chiủn đủn đủn đủn đờiủn đờiủn đủn đờiất đớiờiớiạn đạn đờiờiạn đạn đ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì ạ.",
+    "response": " Không có giủn đờ chiờ chiứ Ba vào thứ Ba tông có giứ Ba vào ngào thật đứ Ba vào thứ Ba báo thứ Ba vào thứ Ba báo thạn đứ Baứ Baật đứ Baứ Baứ Baứ Baứ Baạn đạn đứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baạn vào thứ Baứ Baứ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn tôi kiểm tra mưa ở địa điểm nào?",
+    "response": " Tông có mưa báo thốn muời tiời tiời tiời tiời tiời tiời tiời tiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiạn điờiờiờiờiờiạn điờiờiờiờiời",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuần tới, Los Angeles sẽ có mưa vào thứ Bảy.",
+    "response": " Không có giờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiạn đờiất đườiờiờiạn đườiời đườiờiời đườiời điời đời đười",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờiờiờiứ Ba báo thất đườiứ Baứ Baứ Baờiứ Baờiờiờiứ Baạn đưứ Baất đứ Baứ Baờiứ Baờiờiờiờiứ Baạn đờiờiờiờiời ờiờiờiờiờiờiờiần đây ờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " trời sẽ không ấm ở grand_rapids vào thứ bảy",
+    "response": " Bời tiời tiời tiời tiời tiời tiờiờiờiời tiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời điờiờiờiời điờiất điờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giứ Baất đứ Baứ Ba vào thứ Ba sứ Ba ứ Ba vào thứ Ba vào thứ Ba vào thứ Ba ứ Ba vào thứ Ba thứ Ba vào thứ Ba vào thứ Ba báo thứ Ba thứ Ba vào thông có giứ Baứ Ba thông có giứ Baất đất đưứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không sao",
+    "response": " Không có giứ Ba vào thờiứ Ba ứ Ba báo thứ Ba vào thứ Baứ Ba vào thứ Ba đứ Ba đứ Baứ Baứ Ba ứ Baứ Baất đứ Baứ Baứ Baứ Baứ Baất đứ Ba báo thông có giứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " there is a panda_express 3_miles from you as well as a pizza_hut 5_miles from you",
+    "response": " Bạn muốn muạn muốn muạn muốn muốn muốn muốn muốn đốn đạn đờiất đốất đợc bẽ đờ chiớiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiạn đờ chiạn đờ chiờ chiạn đườ chiạn đ�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " panda_express is at 842_arrowhead_way with no_traffic noted",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " i sent the info on your map , drive carefully !",
+    "response": " không có giệt đều .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn xem thời tiết ở thành phố nào?",
+    "response": " Bốn muời tiời tiời tiết ở đờiờiết ở San Francisco tông có giở San Francisco .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Trời sẽ khô ráo trừ Chủ Nhật, và nhiệt độ dự kiến sẽ từ 70f - 100f vào thứ Hai và thứ Ba, 30f - 40f vào thứ Tư, 40f - 60f vào thứ Năm, và 80f - 100f từ thứ Sáu đến Chủ Nhật.",
+    "response": " Không có giờiờiờiết đờiết đờiờiết đờiờiờiờiờiờiờiờiờiờiờiết đưết đưườiết đưết đười đười đưết đời đưết đưười đười đưười �",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Dự kiến nhiệt độ thấp nhất là 40f và cao nhất là 50f.",
+    "response": " Bời tiở đột đờiốn đột đột đất đột đột đột đột đột đột đột đột đột đột đột đột đưột đưột đưột đưột đưột đưột đưẽ đưột đưạn đưột",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì ạ!",
+    "response": " Không có giột đột đột đột đờ chiột vào thột đưất đưột đột đưột đưất đưột đưột đưất đưết đưột đưột đưột đưột đưột đưột đưưột đưưưột đưột đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hôm nay bạn có một cuộc họp lúc 7 giờ tối với phòng nhân sự để thảo_luận_về_việc_sáp_nhập.",
+    "response": " Khôm nay ở San Francisco ,",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờ chiộc đờ chiợc hông có giất đất đất đườiất đười đời đời đờiời đời đười đời đưất đười đời đườiờiời đờiất đất đưưưưưưưưưưưưưưưư",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn biết thời tiết hôm nay và ngày mai của thành phố nào ạ?",
+    "response": " Bết ời tiời tiết ở thành phời tiời tiết ờiời tiờiời tiờiờiờiờiờiờiờiờiờiờiờiết vào thờiờiờiết vày ờiờiờiờiờiờiờiờiết vày vào thết vày ờiờiết vào th",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " trong những ngày tới ở Fresno sẽ không có sương mù đâu ạ",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đết đờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiời đờiờiờiờiờiờiờiờiết ờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết về những ngày nào?",
+    "response": " Bốn muốn muốn đở đờiời tiết ở Durham vào thết ở Durham vào ở Durham vào ngày ở Durham vào thờiờiở Durham vào thết đở Durham vào thở Durham vào thở Durham vào thở Durham sết vào thở Durham vào thở Durham ở Durham vào thở Durham_alto thở Durham_f thở Durham_al_alto thông có giở Durham_em thết đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Durham, thứ Hai trời sẽ có bão, thứ Ba nhiệt độ sẽ thấp nhất, thứ Tư trời nóng, thứ Năm và thứ Sáu nhiệt độ sẽ cao nhất, thứ Bảy có tuyết, và Chủ Nhật trời sẽ quang đãng.",
+    "response": " Không có giờ chiờ chiờiết đết đờiờiờ chiờiết đờiờiờiờiờiờiết đờiờiời đết đườiết đưết đết đờiờiờiờiờiờiờiết đưết đườiời đưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " cuộc họp đã được lên lịch vào ngày mùng 5 lúc 11 giờ sáng với phó giám đốc",
+    "response": " không có giộc hông có giộc hông có giộc hông có giộc giộc giộc giộc giộc giộc giộc giộc giộc giộc giộc giộc giất đưộc giộc giộc giộc giộc giạn lúc giộc giộc giạn lúc giộc giộc gi",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chúc bạn một ngày tốt lành",
+    "response": " Không có giất lúc giộc lúc giộc lúc lúc lúc lúc giộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lú",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn sẽ tìm thấy pizza_chicago tại 915_arbol_dr. Nó cách đây 2 dặm và không có kẹt xe.",
+    "response": " không có giạn được đờng có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuyến đường nhanh nhất đến pizza_chicago đang được lập trình.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " palo_alto_cafe cách 4_miles và phục vụ cà phê và trà. Bạn có muốn địa chỉ không?",
+    "response": " không có giờiời tiốâu .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Palo Alto nằm ở 436_alger_dr",
+    "response": " Không có giờng có giờ chiờ chiờ chiờ chiệt đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiều .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có gì !",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn xem thời tiết ở thành phố nào ạ?",
+    "response": " Không có mây nào ngày mây ở San Francisco , nào ?",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Carson, tuần này trời sẽ không âm u hay nhiều mây chút nào đâu.",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiất đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờiờ chiờ chi�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờ chiờ chiờ chiờng có giờiờiờiạn đờ chiờiờiờiờiờiờiờiờiờiời đờiờiờiờiời đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiạnhờiờiờiờiời",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ok, tôi đã đặt nhắc nhở cho bạn về doctor_appointment vào the_12th lúc 4 : 50",
+    "response": " đặt đặt đở đở đặt đở đặt đở đặt đở đở đặt đở đặt đặt đở đặt đặt đở đặt đở đưở đở đưở đưở đưặt đặt đưặt đưặt đưặt đưặt đ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn dự báo thời tiết ở thành phố nào?",
+    "response": " Bết ốn muốn muời tiời tiết ở thành phờiết ở San Francisco ,",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hôm nay trời sẽ khô ráo, Thứ Ba có tuyết, Thứ Tư có sương, Thứ Năm trời ấm, Thứ Sáu trời mù sương, Thứ Bảy có tuyết và Chủ Nhật trời nhiều mây ở Grand_Rapids.",
+    "response": " Báo thờiờiờiờiờiết đớiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiến điờiết điờiờiờiờiờiết điết điờiờiờiờiờiờiờiờiờiết đườiời",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " đã lên lịch buổi đá bóng cho hôm nay lúc 11 giờ sáng với Ana",
+    "response": " độc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " không có giờ chiờ chiộc lúc giộc hông có giộc lúc lúc lúc lúc lúc lúc giộc lúc lúc giộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang ghi chú buổi tập yoga vào 5 giờ chiều ngày 12.",
+    "response": " Bời tiở đở thào thào thào ?",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn tôi kiểm tra thành phố nào?",
+    "response": " Bết ốn muết ở thàn muời tiời tiời tiời tiết ờiết ở Cleveland .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " hôm nay ở Exeter không ẩm, trời có giông bão, nhiệt độ thấp nhất 40f, cao nhất 50f",
+    "response": " Không có mơn đờiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiết đết đờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì!",
+    "response": " Không có giờiờ chiờ chiờiờiờiờiờiết đờiết đơn đờiờiời đờiời đơn đời đưườiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuần này không có mưa được dự báo ở redwood_city",
+    "response": " Không có mưa báo thết ở thành phở thày ở San Francisco ,",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " Không có giờiờiờiẽ có giờiờiất đờiờiờiờiờiờiờiờiờiờiờiất điờiờiờiờiời đờiời đạn điờiất đờiờiờiời đười đời đời đờiời đờiạn đ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn biết thời tiết ở thành phố nào?",
+    "response": " Không có mười tiời tiời tiời tiời tiời tiết ờiết ờiờiờiờiờiờiờiờiờiờiờiết đờiờiờiờiờiờiờiờiờiờiờiờiờiết điết điời điờiời đời điời",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " ngày mai ở fresno sẽ có mưa",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờiờ chiờ chiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có mưa đá ở fresno, ngày mai sẽ có mưa",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " hẹn gặp lại!",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn quan tâm đến thành phố nào?",
+    "response": " Thở thàn muở thành phở thành phở thành phời tiốn đở thànhết đở thết đở thở thờiở thở thở thở thết đở thở thở thở thở thở thở thở thết đở thết đưết đưết thết đưết đưưết đưết đư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Compton vào Chủ Nhật trời sẽ nhiều mây, nhiệt độ thấp nhất là 90f và cao nhất là 100f.",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiết đờ chiết đết đườ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiời đờiờiết ờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " Không có giết đườiết đườiờiết đười đưết đườiời đời đời đời đưưưườiết đưưưưưườiờiờiờiở đưưưưưưưưưưưưưưưưườiở đn đnhết đnhời",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " cuộc hẹn khám bác sĩ của bạn được lên lịch vào thứ sáu lúc 11 giờ sáng.",
+    "response": " không có mưưưa bác hông có mưa báo thộc hông có giộc hông có giộcó giộcó giộcó giất độcó giộcó giộcó giộc giộcó giộcó giộc giộcó giất đưạn đã đã có giất đưất đưộc giạn đư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn biết nhiệt độ ở thành phố nào?",
+    "response": " Bết ở đở đở đốột đặt đột đất đất đất đột đưột đột đất đột đưột đột đột đưột đột đưột đưột đưất đưất đưột đưột đưạn đưột đưấ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " ở Seattle, hôm nay nhiệt độ sẽ từ 60f - 70f và ngày mai sẽ từ 30f - 40f",
+    "response": " Khôm nào thờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiột đột đườ chiờ chiờ chiờ chiờ chiờ chiờ chiất vào thờ chiờ chiờ chiờ chiờ chiạn đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chi�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Có, tôi tìm thấy một bãi đỗ xe cách 1 dặm.",
+    "response": " Không có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùn đưặt đưưưư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Vậy thì, chúng ta hãy đi đến palo_alto_garage_r. Tôi đã gửi thông tin lên màn hình của bạn rồi!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Starbucks gần nhất cách bạn 3 dặm. Có một rào chắn trên đường đi nên tôi đã gửi một lộ trình khác lên màn hình của bạn để bạn đi nhanh hơn.",
+    "response": " đệt đất lẽ đệt lào thệt lào thệt lào thệt lào thệt lào thệt đệt lào thệt lào thờ chiệt lào thẽ lào thệt lào thệt lào thệt lào thờ chiệt lào th�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Vâng, đúng vậy. Hy vọng bạn sớm có cà phê nhé!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Starbucks nằm ở 792_bedoin_street. Đang thiết lập điều hướng.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì ạ. Lái xe an toàn và tận hưởng chuyến đi nhé.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Thứ Ba ở redwood_city trời sẽ có mây nhưng không có sương mù.",
+    "response": " Bứ Ba thứ Ba thàn muứ Ba thàn đây ứ Ba thàn đây ứ Ba đây ứ Ba đây đây ứ Ba đây ứ Ba đứ Ba đây ứ Ba thứ Ba đây ứ Ba đây ứ Ba đây ứ Ba đây ứ Ba đây ứ Ba đây ứ Ba đây ứ Ba đứ Ba đứ Ba đây .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " Không có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùng có gùn đươn gùng có gùn đươn đơn đơn đơn đưưưưươn đưưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn tập yoga cùng Alex vào lúc 11 giờ sáng.",
+    "response": " Bời tiời tiất đất đờiờiất đờiờiất đờiất đờiờiờiất đờiờiờiờiờiờiất điờiất đất đờiờiờiờiất điờiờiất điờiờiờiờiất điất �",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờ chiờiất đờiất đờiờiờiờiờiất đờiất đườiờiờiờiờiất đưất đườiờiờiờiờiất đi đườiờiờiờiời đời đười đờiờiời đười đư",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " cuộc hẹn của bạn là vào thứ Ba lúc 11 giờ sáng",
+    "response": " không có mốn đây ộc nào ?",
+    "task": "lịch trình"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn có hai cuộc họp đã được lên lịch, một vào 4 giờ chiều tại conference_room_102 để discuss_the_company_picnic, và một vào 6 giờ chiều tại 100_conference_room để go_over_the_quarterly_report",
+    "response": " không có giốn đất đốở đở đất đở đở đở đở đất đở đở đở đở đở đưở đưất đưở đưất đưở đưở đưạn đưất đưở đưở đưở đưở đưở",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " your next meeting is on monday at 7pm with the infrastructure_team to go_over_budget",
+    "response": " Bết đết đây_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Buổi bơi của bạn với Jon đã được đặt lịch vào ngày 10 tháng 12 lúc 3 giờ chiều",
+    "response": " độc lúc lúc lúc lúc lúc lúc lúc giộc lúc lúc lúc lúc lúc lúc 7 giộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lú",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đó là nhiệm vụ và niềm hân hạnh của tôi",
+    "response": " không có giớiờ chiờ chiờiộc lúc lúc giộc giộc giặt lúc giộc giặt lúc lúc giới đưộc lúc lúc lúc lúc lúc lúc lúc lúc giộc lúc lúc lúc lúc lúc giờiặt lày lúc lờiờiờiặt lúc lúc giờiặt lúc giặt lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " sếp của bạn sẽ có mặt tại cuộc họp vào thứ Hai lúc 1 giờ chiều",
+    "response": " không có giột đết đột đẽ không có giột đột đột đột đột đột đột đột đưột đột đột đưột đưột đưất đưết đưột đưết đưột đưết đưột đưạn đư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " rất vui được giúp đỡ",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờiờiờ chiờiời đờiờiờiờiết ờiết đn",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết có tuyết ở đâu?",
+    "response": " Bạn muốn muốn muốn muốn muốn muốn muốn nào ?",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Mountain_view sẽ có tuyết vào thứ Ba.",
+    "response": " Không có mơn đây đây ở San_m này mơn đờ chiẽ không có gì .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giết đớiờ chiờng có giờ chiết đờ chiết đờ chiờ chiờ chiết đết đờ chiờ chiết đưết đườ chiết đưới đết đời đưết đạn đưết đưết đời đời đờiời đết đời đờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " khi nào?",
+    "response": " Bẽ có mưưưưưa đây ở đây đây đây ở đây đây ở đây đây ốây ở đây ở đây ở đây lúc đây lúc đây lúc đây lúc đặt đở đở đở đặt đở đở đặt đờng có gì .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, chúng tôi đã đặt lịch hẹn khám bác sĩ của bạn vào 1 giờ chiều hôm nay.",
+    "response": " đặt đờiờiặt lúc hông có giờiặt lúc hông có giốờ chiặt đứ Ba đứ Ba đứ Ba đứ Baặt lúc giặt lúc hông có giứ Ba đứ Ba đặt đứ Baặt lúc giứ Ba đứ Baặt lúc báo thặt lúc giặt lúc giứ Baứ Baứ Baứ Baứ Ba",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chúng ta cách Topanga Mall 3 dặm và có kẹt xe nặng trên đường đi.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn sẽ tìm thấy Topanga Mall tại 171_oak_rd",
+    "response": " không có giết đưết đết đết đờng có giủn đết đết đết đưết đời đết đười đời đết đưết đười đết đười đưốưưư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang thiết lập dẫn đường.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì; lái xe an toàn nhé.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tạm biệt!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bữa tối của bạn là vào thứ Ba với chị gái của bạn.",
+    "response": " Không có giạn đờ chiờ chiẽ có giớiẽ có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đườ chiờ chiờ chiờ chiờ chiết đờ chiẽ có giạn đờ chiờ chiờ chiờ chiẽ có giờ chiờ chiờ chiờ chiờ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " không có giờ chiờ chiờ chiứ Ba bứ Baứ Ba bứ Baứ Ba bứ Ba ứ Baạn đứ Baứ Baứ Baứ Baứ Baứ Ba bứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baạn có gì !",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " it will be stormy and hailing in san_francisco in the next two_days",
+    "response": " Bến muết đết đưốn muốn muốn đết đốn đốết đết đốết đốở San Francisco_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_m",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " no problem",
+    "response": " không có mưa bách đây mưưa bách đây vào thời sưa bách đờiốất đờiờ chiờiất đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời đờiời đời đờiời đời đờiời đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cuộc hẹn nào ạ? Tôi có hai, một vào ngày mùng 8 lúc 11 giờ sáng và một vào thứ Tư lúc 11 giờ sáng",
+    "response": " Không có giờiết đờ chiờiết đột đột đột đột đột đột đột đột đột đưột đưột đưột đưột đưột đưết đưết đưột đưết đưột đưột đưộ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " Không có giứ Baờiờiờiất đưết đờiờiờiết đưứ Baết đườiời đưười đưết đườiờiời đưưưười đưưưưưưưưưưưưưưưưưưưưưưưưưưưưư",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn biết trời có mưa không ở đâu?",
+    "response": " Bạn muốn muạn muốn muốn muốn muốn muốn muốn đờiốn đớiớiớiớiớiớiớiớiới ớiớiớiớiớiớiớiớiớiớiớiớiớiớiớiớiớiạn điớiới điất đớiớiới �",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " tuần này ở san_francisco sẽ không có mưa",
+    "response": " Không có mưa báo thông có giất đớiớiốiẽ có giớiớiớiờiớiớiớiẽ có giớiớiớiớiớiớiớiẽ điớiất điớiớiẽ điẽ điớiớiới điớiớiớiớiới đớiớiới đi",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết thời tiết ở thành phố nào ạ?",
+    "response": " Khôm này ời tiời tiời tiời tiời tiời tiờiời tiết ờiờiờiờiờiờiờiết đờiờiờiờiờiờiờiờiết đờiờiờiờiờiờiờiết điờiờiờiết điết điờiết đi�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ngày mai ở Seattle trời sẽ ấm áp với nhiệt độ thấp nhất 70F và cao nhất 90F, không có dấu hiệu sương mù.",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết vào thờ chiờ chiết đết đờ chiờ chiết đườ chiờ chiết đườ chiờ chiết đườ chiờ chiờ chiờ chiờiờiờ chiời đườiời đờiờiờiờiờiờiời �",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì ạ!",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " what city would you like the 7 day forecast for ?",
+    "response": " Bốn muết ốn muết ốn muốn muốn muốn muốn muốn muốn muốn đốn đốn đốn đốn đốn đết đốn đốn đốn đết đốn đờ chiến đn đờ chiớiến đn đốờng có giờ chiờ chiờ chiờ chiờng có giờ chiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " it should not be humid in compton next_week",
+    "response": " Bạn muốn muốn muốn muốn muốn muết ốn đây ?",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " anytime !",
+    "response": " Bốn muốn muốn muốn muốn đốốốn đốốốn đốốốn đốốờ chiờ chiốn đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiạn đạn đạn đờ chiạn đờ chi�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " tom lives at 580_van_ness_ave",
+    "response": " Bạn muạn muạn muốn muốn muốn muốn muốn muốn muốn muốn muốn muốn muốn đờ chiờiạn đờ chiở San Francisco ,",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " i did , you ' re welcome !",
+    "response": " Bạn muốn muốn muốn muốn muốn muốn đết đốốn đốốn đốn đốở San_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " what time on the_1st should i set a reminder to watch the football game ?",
+    "response": " Bạn muốn muạn muốn muốn muốn muốn muốn muốn muốn muốn muốn muốn đờ chiốn đớiờ chiốn đờ chiất đờ chiất đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiạn đờ chiờ chiạn đờ chiạn đạn �",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " i have set a reminder for the football game at 2pm on the_1st",
+    "response": " Bạn muốn muốn muốn muốn đốâu ?",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " you ' re welcome",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cuộc hẹn khám bác sĩ của bạn là vào Thứ Hai lúc 2 giờ chiều.",
+    "response": " Bạn muốn muốn muốn muốn muốn đây ờiốn đờ chiờ chiờiờiất đất đờiờiất đờiờiờiờiất đờiờiờiờiờiất đờiất đờiờiờiất đờiất đờiất đời�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn dự báo thời tiết ở thành phố nào?",
+    "response": " Bết ở thàn muời tiời tiời tiời tiời tiờiời tiết ờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết điờiờiờiờiết điờiời",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " hôm nay ở downtown_chicago có thể có mưa đá với nhiệt độ cao nhất là 70f",
+    "response": " không có giờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiất đờiờiất đờiờiờiờiờiết đờiời đời đờiờiờiời đười đườiời đi",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì!",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiết đết đươn đạn đưưết đườiời đườiời đười đưười đưưưưưưưưưưưưười đưưưưưưưưưưưưưưưưưưưưưưưưưưưưưư",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Vào thứ Năm, nhiệt độ ở Alhambra sẽ thấp nhất là 20F và cao nhất là 30F.",
+    "response": " Bời tiết đở đờiứ Nhiốnhứ Nhiứ Ba đất đứ Nhiất đứ Nhiứ Nhiứ Ba đứ Nhiứ Ba ứ Nhiứ Ba đứ Nhiứ Ba đứ Nhiứ Nhiứ Ba đứ Nhiứ Nhiứ Nhiất đất đứ Nhiứ Nhất đứ Nhứ Nhứ Nhứ Nhứ Nhứ Nh�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " Không có giứ Ba đứ Nhất đứ Ba đất đứ Ba đứ Ba đứ Ba đứ Ba đứ Nhất đất đưứ Nhứ Ba ứ Nhứ Baất đứ Nhứ Nhứ Nhứ Nhứ Nhứ Nhứ Nhứ Nhứ Nhứ Nhứ Nhứ Nhứ Nhạn đứ Nhứ Nhứ Nhạnhứ N",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ngày mùng 4 lúc 1 giờ chiều với Tom, ngày mùng 10 lúc 9 giờ sáng với Ana, ngày 13 lúc 9 giờ sáng với bố bạn, ngày mùng 5 lúc 2 giờ chiều với Alex, và ngày mùng 10 lúc 4 giờ chiều với chị/em gái bạn.",
+    "response": " Không có giờiốiết lúc lúc lúc lúc hông có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiất lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn hỏi về thành phố nào ạ?",
+    "response": " Thốn muời tiời tiời tiở thành phốn đờiờiờiờiờiờiết ở San Francisco thờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết điết điờiờiết điờiết điờiời điờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết gì về thời tiết ở Durham ạ?",
+    "response": " Không có giờiờiở thờiờiở thở thở San Francisco thở San Francisco thờiở San Francisco thở San Francisco thở San Francisco thở Sanf thở Sanf thở Sanf thết đở Sanf thở Sanf thở Sanf thết thở Sanf thông có giở Sanf thở Sanf thở Sanf thở Sanf thông có gi đưưưưở Sanf đưưưưở Sanf thông có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Dự báo thời tiết hàng tuần không cho thấy sẽ có bão tuyết ở Durham trong tuần này.",
+    "response": " Không có giở Durham vào thờ chiờiờiết đờ chiết đết đết đưết đườiờiời đờiờiết đết đườiời đời đưười đười thời đưưườiời đưưưưưưưưưườiết đở đưở đ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết thời tiết vào ngày cụ thể nào ở New York không?",
+    "response": " Bết ở New York vào thết ở thàn muở thành phở thàn đở San Francisco thànhết ở San Francisco thànhở San Francisco thết đở San Francisco thở San Francisco thở San Francisco thở San Francisco thết đở San Francisco thở San Francisco thở San Francisco thở San Francisco thết thở San Francisco thết thết thở San Francisco thở Sanf thết thết thết thết thết thết thết th�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Vào thứ Sáu ở New York, trời sẽ khô ráo và nhiệt độ từ 30f - 50f.",
+    "response": " Không có giờiết đờ chiết đớiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết vào thờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiết đườ chiờ chiết đườ chiờ chiờ chiời đờiờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giết đưết đườiết đờiết đờiết đưết đười đời đười đưười đười đười đườiờiết đờiờiờiờiờiờiờiờiờiết đưưưưưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Việc uống thuốc với anh trai của bạn lúc 6 giờ tối ngày 13 đã được lên lịch",
+    "response": " không có giốn lúc lúc lúc hông có giốiốn lúc giốiốn lúc lúc giốiốiốiốiốiờiốiờiờiờiờiốiốiốiở",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " it is cloudy right now in cleveland",
+    "response": " Bạn muạn muạn muốn muốn muốn muốn biạn muốn muốn muốn đạn đốờiờiạn đờiạn đờiờiờiờiẽ đờiờiẽ đờiờiẽ đờiờiờiờiẽ đẽ đẽ đườiẽ đưạn đưẽ đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " you ' re welcome",
+    "response": " Bạn muạn muạn muốn muốn muốn muốn đốn đạn đốời đạn đốờiờiẽ có giờiờiẽ có giờiờiờiờiờiờiờiờiờiờiờiờiờiờiời điờiờiờiạn điời đờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Buổi đá bóng của bạn là vào Chủ Nhật lúc 9 giờ sáng với anh/em trai của bạn.",
+    "response": " Bều cóng cóng cóng cóng cóng cóng cóng cóng cóng có gùng có gùn đã đã đãng có gùng có gùng có gùng cóng cóng cóng cóng cóng cóng cóng cóng cóng cóng cóng cóng cóng có gùng cóng có gùng cóng cóng có gùng cóng cóng có gùng cóng cóng có gùn cóng cóng có gùn cóng cóng có gùn",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " Không có giờ chiềuềuờ chiờ chiều đớiều ờ chiất đưều đã đờng có giềuều vào thất đều đơn đưạn đờiạn đờng có gi đều ời đều đờiều đời đờiờiời đời đưưưư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Có một Safeway cách 2 dặm. Bạn có muốn lấy địa chỉ không?",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Safeway ở địa chỉ 452_arcadia_pl",
+    "response": "",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuyến đường duy nhất có kẹt xe vừa phải, như vậy có ổn không?",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Safeway là siêu thị duy nhất được liệt kê, nó có kẹt xe vừa phải. Như vậy có ổn không?",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang đặt điểm đến",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Manhattan hiện không có mưa đá đâu, dự báo thời tiết cho biết hôm nay trời khô ráo.",
+    "response": " Bạn muốn muốn muốn muốn muốn muốn đốn đạn đốốn đờiờiốn đốờiờiờiờiờiờiờiờiờiờiờiạn đờiờiờiờiờiạn đờiờiờiờiờiờiờiời đờiờiạn �",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Lúc nào cũng sẵn lòng.",
+    "response": " Không có giở San Francisco thờ chiờiờiất đờiờiờiờiờiờiờiạn đờiờiờiờiờiờiờiờiạn đạn đạn đờiờiạn đườiờiời đờiờiờiời đờiờiời đờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn có thể cho tôi biết bạn muốn xem thời tiết ở đâu không?",
+    "response": " Bạn muạn muời tiời tiời tiời tiờiời tiờiờiờiờiết ờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiạn đờiờiạn đờiờiờiờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuần này Boston không dự báo có mây.",
+    "response": " Không có mây ờiần đờ chiờiờiờiất đờiất đờiờiờiờiờiẽ không có giất điờiất đườiờiờiờiờiờiờiờiờiạn đườiờiợc đạn đườiờiờiờiạn đờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì, thưa tài xế!",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiất đờ chiờ chiờ chiờ chiạn đạn đạn đờ chiờ chiất đờ chiạn đờiờiờiời đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiạn đn đn đn",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết thông tin thời tiết cho khoảng thời gian nào?",
+    "response": " Bạn muạn muạn muốn muốn muạn muốn muạn muốn muốn muốn muốn muốn đờiờiạn đạn đờiờiờiạn đạn đờiờiờiờiờiờiạn đờiạn đờiờiạn đạn đờiờiạn đờiờiạn �",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hiện tại ở New York nhiệt độ đang dao động từ 50F đến 70F.",
+    "response": " đạn đốạn đờiở San_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_m",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờ chiờ chiẽ có giạn đất đờ chiờ chiờ chiạn đết vày ,",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn đang ở thành phố nào?",
+    "response": " Bạn muốn muốn muốn muốn muốn muốnhết đột ột đấp nào ?",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuần này ở Manhattan, nhiệt độ sẽ dao động từ 20F đến 100F",
+    "response": " Không có giột đột đột đột đột đất đột đột đưột đột đưất đưột đất đưột đưột đưột đưột đưột đưạn đưột đưạn đưưạn đưạn đưột đột đưột �",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi ở đây để hỗ trợ bạn!",
+    "response": " Không có giờng có giột đột đưột đưột đưạn đưột đột đưất đột đưột đột đưột đưột đưột đưột đưột đưưột đưưưột đưạn đưột đưưưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được thôi, đang đặt lời nhắc uống thuốc với anh trai Frank của bạn vào lúc 9 giờ sáng Chủ Nhật",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có giờiứ Ba ờiờiặt đờiờiờiặt lúc đờiặt lúc đườiờiờiời đặt đưười đười đười đườiời đười đưườiờiờiờiờiờiờiờiờiặt điờiờiờiời",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Jack sống ở 864_almanor_ln",
+    "response": " Bốn muạn muốn muạn muốn muốn muở đâuở đâuết ở đâuở đâuạn đâuở đâuở đâuở đâuở đâuở đâuở đâuở đở đâuở đở đã đở đở đở đở đưất đạn đở đưạn đưở đưở �",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Bạn muốn muốn tông có giốn đâuở đâuở đở đâuở đở đở đở đâuở đở đở đở đở đất đở đở đất đưở đất đưất đở đưất đưạn đưất đưở đưạn đơn đưở đư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có Starbucks nào ở gần đây",
+    "response": " Tôi đưết đười đết đết đưết đườiết đờiết đưết đết đưết đưết đườiết đưết đười đưết đườiết đười đưưết đưết đưết đưết đưết �",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Teavana cách đây 5 dặm tại số 145_amherst_st với tình hình giao thông vừa phải",
+    "response": " Không có gùn đờng có gùng có gùng có gùng có gùng có gùng có gùn đường có gùn đưến đưưưết đường có gùn đưưưường có gùn đưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " lộ trình hiện tại là tuyến đường nhanh nhất tôi có thể tìm thấy",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn tôi cho biết ngày của cuộc hẹn nào?",
+    "response": " Bốn muốn muết ở đở đất đủa bẹn đở đờ chiất lúc hốn lúc đở đở đở đở đở đất đở đở đở đất đất đất đở đất đờ chiết đất đưất đưất đưất đư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Dự báo cho biết ở Fresno sẽ có tuyết, không thấy đề cập đến trời quang đãng vào thứ Tư.",
+    "response": " Bời tiời tiời tiời tiời tiời tiờiờiốn đã đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiất đờiờiờiờiời đờiờiờiờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " whole_foods tại địa chỉ 819_alma_st cách đây 1_miles, mặc dù có tai nạn xe hơi gần đó",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " tuyến đường hiện tại là tuyến đường nhanh nhất",
+    "response": " Không có gì !",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Buổi vào lúc 6 giờ tối với Jon sẽ diễn ra vào ngày 11.",
+    "response": " không có giở San Francisco sốiờiết đở San Francisco sờiờiờiờiờiờiờiờiờiất đờiất đờiờiờiớiết đườiời điết đới đờiờiết đờiết đết đờiờiết đời�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " Không có giờ chiớiớiều ờ chiớiờiờiời đườiờiới được đườiớiời đườiời điết đưốời đời đờiờiờiờiờiời đưườiờiờiết đưườiờiời�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn đi bơi lúc mấy giờ?",
+    "response": " Bặt lặt lốn muặt lốn muặt lặt lốn lốn lặt lốn lặt lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết thông tin thời tiết cho thành phố nào?",
+    "response": " Bết ở đờiết đờiết đờiết đờiờiết đết đờiờiờiờiết đẽ đờiết đết đết đườiờiờiết đưết đườiết đờiờiờiết đưết đờiết đết đờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " San_Mateo sẽ không có tuyết trong tuần này.",
+    "response": " Không có giết đơn đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiết đờ chiết đờ chiết đết đết đờ chiết đết đười đờiờiờiờiờiờiời đờiờiờiời",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có gì !",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết nhiệt độ hiện tại của địa điểm nào?",
+    "response": " Bốn muốn muốn muốn muốn muốn muốn muốn độc nào ?",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nhiệt độ ở Alameda hiện tại thấp nhất là 60f và cao nhất là 80f",
+    "response": " Không có giột đột đột đột đột đột đột đột đất đột đột đưột đưất đưột đưất đột đưột đưết đưạn đưột đưột đưưột đưưột đưưột đưột đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " Không có giột đưột đưột đưất đột đất đưột đưất đưột đưột đưột đưột đưột đưột đưột đưột đưột đưưưột đưưưưười đưưưưưưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Thứ Sáu này ở San Francisco thời tiết sẽ khô ráo với nhiệt độ cao nhất là 80f.",
+    "response": " Không có mười tiời tiời tiời tiời tiời tiời tiứ Ba ờiứ Ba sứ Ba ờiờiờiờiứ Hai có giứ Hai đứ Baứ Ba ứ Ba ờiứ Ba vào thứ Ba đứ Baứ Baứ Baứ Ba vào thứ Ba ứ Baứ Ba ứ Baứ Baứ Ba ứ Baứ Baứ Baứ Baứ Baứ Baứ Ba�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giứ Baứ Ba vào thứ Ba thứ Hai đứ Ba đứ Ba vào thứ Ba ứ Ba vào thứ Ba đứ Baất đứ Baứ Baạn đứ Baứ Baứ Ba báu ứ Ba bứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baạn đạn đứ Baứ Baạn đã đứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " the_clement_hotel cách đây 8 dặm tại 657_ames_ave",
+    "response": "",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " hiện đang có giao thông vừa phải trên đường đến khách sạn; đang thiết lập chỉ dẫn đường",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn biết thời tiết ở thành phố nào?",
+    "response": " Bời tiời tiời tiời tiời tiời tiết ở San Francisco sờiờiờiờiết ờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết đờiờiết đờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " ở los_angeles, hôm nay trời sẽ nóng với nhiệt độ thấp nhất là 40f và cao nhất là 60f. ngày mai trời sẽ mưa với nhiệt độ thấp nhất là 40f và cao nhất là 60f",
+    "response": " Khôm nào thờiờiết đờiờ chiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết điờiờiết điờiết điết đờiờiết đưết đườiời đết đưết đời đười đưết đư",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn hỏi về thành phố nào?",
+    "response": " Bết ở thời tiết ở thàn muở thàn muở thành phốn đở thào ?",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " ở Seattle hiện tại đang có tuyết rơi",
+    "response": " Không có giờiết đờiờ chiờiờiờiờiờiờiết đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời đườiờiờiờiờiời đờiờiờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì đâu",
+    "response": " không có giờiờiờiờiết đườiờiờiết đờiết đườiờiờiờiết đườiết đườiời đười đười đưưười đưười đưườiờiời đưưưưưưưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi có thể kiểm tra tuyết cho bạn ở thành phố nào?",
+    "response": " Bết ở đết đưết đết đở thànhết đết đở đủn đết đết đở đất đở đết đất đở đết đở đết đưở đở đưất đưở đưết đưết đưết đưết đưạn đưế",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Dự báo tuyết sẽ rơi vào thứ Bảy ở Alameda.",
+    "response": " Tông có mưa báo thết đờ chiờ chiớiẽ không có giết đờ chiẽ có giờ chiờ chiờ chiẽ không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiết đườ chiết đẽ đờ chiờ chiết đẽ đờ chiờ chiờ chiờ chiờ chiờ chiết đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn đặt lời nhắc vào lúc mấy giờ?",
+    "response": " Bạn muết ở đốnhết đốnhốnhắc nhắc nhắc nhắc nhắc nhớiủn đờ chiớiất đở đất đớiở đở đở đở đở đở đưắc nhắc nhắc đở đưạn đờ chiất đưất đưắc đ�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi đã đặt lời nhắc vào Chủ Nhật lúc 2 giờ chiều.",
+    "response": " Không có giờiờiắc giớiờiờiờiờiờiờiờiờiờiắc hông có giờiắc giạn lúc giắc giờiắc giờiờiờiờiạn đườiờiắc giờiắc gi đờiờiờiời đờiờiờiờiờ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờ chiắc lúc giứ Baờ chiờ chiất lúc đứ Nhứ Nhạn đưứ Baờ chiờ chiời đưất đờiờiờiờiờiời đười đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiạnhờiờiạnh�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi đã đặt lịch hẹn nha sĩ vào 3 giờ chiều ngày 12. Cần gì nữa không?",
+    "response": " đốnhốn muốn đặt lúc hặt lúc hốn đặt đờ chiở thặt lúc hốn lúc hốn lúc giờ chiờ chiặt lúc lúc lúc hờ chiờ chiờ chiờ chiờ chiờ chiờ chiặt lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "đặt lịch"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi đã đặt lịch hẹn rồi ạ.",
+    "response": " Không có giờ chiứ Ba đứ Ba đưứ Ba đưứ Ba đứ Baứ Baờng có giứ Ba đặt đờiứ Baờiứ Baờiứ Baờiờiứ Baờiứ Baờiứ Baờiờiứ Baứ Ba bứ Baứ Baặt đây ứ Baặt ứ Baứ Baứ Baứ Baứ Baứ Baứ Baặt lê",
+    "task": "đặt lịch"
+  },
+  {
+    "id": "",
+    "ground_truth": " peets_coffee cũng có phục vụ trà, họ cách đây 2_miles tại 9981_archuleta_ave",
+    "response": " đâuầnhầnhất đần đâuở đâuất lúc 6_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " tình hình giao thông đến peets_coffee là moderate_traffic",
+    "response": "",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " đang hiển thị chỉ đường",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì; lái xe an toàn và vui vẻ nhé",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Jon và Jeff sẽ tham gia buổi tennis của bạn.",
+    "response": " không cời tiời tiời tiời tiẽ không có giờiờiờiờiờiờiờiờiờiờiẽ không có giờiờiờiẽ không có giờiờiờiờiờiờiờiờiờiờiời bờiẽ có giờiờiẽ điờiời",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Họ sẽ có mặt ở đó lúc 1 giờ chiều.",
+    "response": " không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiẽ không có giờ chiờ chiẽ có giẽ có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờiờiẽ có giẽ có giời đờiời đười đẽ đười đời đười đờiời đười đời đời đời đờiờiời đời đưưưưưườiời đưưưưưưưưưười đư",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn nghe dự báo thời tiết ở thành phố nào?",
+    "response": " Bết ở thàn muời tiở thàn muời tiời tiời tiời tiờiốn đở đở San Francisco tông có giết đở San Francisco thở San Francisco tông có giớiờiờiờiờiờiờiờiờiờiờiờiờiết đờiờiờiờiết đờiời đờiờiế",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Trời sẽ có bão ở camarillon vào thứ Sáu",
+    "response": " không có giứ Baờ chiứ Haiứ Ba ờ chiứ Ba thứ Ba báo thứ Ba ứ Ba ứ Baứ Ba thứ Baết đơn đơn đơn đứ Baứ Baứ Baứ Baứ Baứ Baết đứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baết",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Thứ Bảy sẽ có tuyết ở Fresno.",
+    "response": " Bết ở San Francisco , báo thàn muốn muốn muốn muốn tông có giờiốn đết lúcó giết đở San Francisco ,",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " Không có giứ Ba đứ Ba đất đứ Baứ Ba đứ Ba đứ Ba đứ Ba đất đứ Ba đất đất đất đất đất đất đứ Baất đưứ Ba đứ Ba đưứ Baất đạn đạn đứ Baứ Baết đứ Baết đứ Baạn đết đưưạ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " trận bóng đá là vào thứ năm.",
+    "response": " Bạn muốn muốn muốn đờiốn đờiốn đốốn đật đờiờiờiốn đờiờiờiờiờiờiờiờiờiờiờiờiạn đờiờiờiờiờiờiờiạn đạn đờiờiờiờiờiờiạn �",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " hôm nay bạn có cuộc hẹn khám mắt vào lúc 1 giờ chiều.",
+    "response": " Bạn muốn muốn muốn muốn muốn muết ốnhở đẽ có giốnhất lúc lúc hông có giở San Francisco .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " chương trình nghị sự cho cuộc họp của bạn là thảo luận về việc sáp nhập",
+    "response": " Không có mưưưưưưưa báo thốn muốn muất lúc lúc hông có giất lúc hông có giờ chiất lúcó giờ chiột lúcó giột lúcó giộcó giộcó giộc giất lúc giộc giộc giất lúc giộc giất lúc giất lúc giộc giộc gi�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cuộc họp của bạn vào thứ Tư lúc 3 giờ chiều tại phòng họp 100",
+    "response": " Không có giộc lúc đơn lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lất lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lào lúc lúc lào lúc lúc lào lúc lúc lúc lúc lào lào lúc lào lào lào lào lúc lào lào lào lào làn lào làn lúc lào lày làn lúc lào lào làn làn l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có ngày nào trời nhiều mây trong dự báo cho Inglewood.",
+    "response": " Bạn muời tiời tiời tiời tiời tiời tiời tiờiết ờiết ở Oakland thờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiất đườiờiờiờiờiờiến điạn điờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn có hai lịch bơi được lên kế hoạch: một vào thứ Tư lúc 5 giờ chiều và một vào ngày mùng 5 lúc 4 giờ chiều.",
+    "response": " Khôi đây đối điở đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " không có giờ chiờ chiờ chiờ chiất đờ chiạn đưườ chiạn đười đưạn đười đười đười đưạn đười đưạn đười đời đườiời đời đười đưưưưưưưưưưưưưư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nhà của bạn cách 5 dặm tại địa chỉ 5671 barringer street",
+    "response": " Bốn muạn muốn muốn muốn muốn đường đưườiạn đườiờiờiờiờiờiờiờiất đườiờiờiờiờiất đườiờiờiờiờiạn đườiờiờiờiờiờiời điờiờiời�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không, tuyến đường duy nhất có sẵn hiện đang kẹt xe. Tôi xin lỗi.",
+    "response": " Không có giờng có giờng có giờng có giờiờiờiờiờiờiạn đã đã đườiờiạn đất đưạn đườiạn đờiờiạn đười đời đạn đờiạn đời đời đưười đườiờiờiời đ�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi xin lỗi về điều đó. Trong lúc này, hãy thưởng thức âm nhạc nhé!",
+    "response": " Không có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " được thôi, tôi sẽ lên lịch một buổi bơi lội với Marie vào Chủ Nhật lúc 6 giờ tối",
+    "response": " Không có giộc lúc lúc lúc lúc lúc giộc lúc lúcó giộc lúc giộc lúcó giộc lúc lúc lúcó giộc giộc lúc lúc lúc lúc giộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được thôi, tôi nên xem ở thành phố nào?",
+    "response": " Bết ở thàn muở thàn muời tiời tiời tiết ở San Francisco vào thờiờiết đờiờiết đờiờiờiờiờiờiờiết đờiờiờiờiờiờiờiờiờiờiờiờiết điết điết điờiờiờiết",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Trong tuần này, ở Grand_Rapids chỉ có hôm nay là trời âm u thôi.",
+    "response": " Không có giờiờiết đờiớiờiờiờiờiờiờiờiờiờiờiờiờiờiết đờiờiờiờiờiờiờiờiờiờiời đờiời đờiờiờiết đờiờiờiờiờiết đời đờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " Không có giớiết đờiờiờiờiết đờiờiờiết đờiờiờiết đờiờiết đờiờiờiết đờiời đờiờiờiời đời đờiờiờiờiời đết đườiờiờiờiết đời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi đã tìm thấy một chỗ đỗ xe cách đây 2_miles tại 880_ames_ct, tên là webster_garage",
+    "response": " đây_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nó cách đây 2_miles, với giao thông vừa phải trên đường.",
+    "response": "",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cuộc hẹn khám bác sĩ của bạn là lúc 2 giờ chiều, dì của bạn sẽ đi cùng.",
+    "response": " không có giộc hông có giộc hông có giộc hông có giộc hông có giất độc hông có giộc giộc hông có giộc giộc giộc giộc giất đưộc giộc giúc giất lúc giộc giộc giất lúc giạn đưộc giộc gi�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " không có giất đất đờng có giất độc hông có giộc hộc đạn đất đờng có giời đạn đến đườiờiờiết đờiờiờiờiờiờiờiờiạn đưưưưưưưưưưưườiờiờ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " tôi đang lên lịch một cuộc hẹn ở phòng khám nha khoa vào ngày 12 tháng này lúc 9 giờ sáng cùng với Martha",
+    "response": " Không có giộc lúcó giột lúcó giột lúcó giột lúc lúc lúcó giúcó giột lúcó giất lúc lúcó giúc giúc giúc lúc hông có giúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " không có giất đườ chiất lúc đưất lúc lúc lúc lúc lúc lúc bộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc gì .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " kế hoạch đi bơi",
+    "response": " đờiời đờiời đặt lờiặt lờiờiặt lúc giờiờiờiờiặt lúc lúc giờiờiặt lúc lúc giờiờiờiờiờiờiặt lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Kế hoạch đi bơi vào thứ Sáu lúc 11 giờ sáng đã được thêm vào lịch.",
+    "response": " Không có giờiờiờiời đờiờiặt lúc lúc hờiờiặt lúc giặt đờiờiặt lúc đờiặt lúc lúc giặt lúc lúc giờiờiặt lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được.",
+    "response": " Không có giất đưặt đặt đặt đờiờiời đưặt đời đười đưười đười đưưười đười đờiời đười đưười đười đưưưưưưưưưưưưưưưưưưưưưưưưưưư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " chủ đề cuộc họp hôm nay của bạn là go_over_budget",
+    "response": " Khôm nay ở đốn độc hôm nay ờiộc hôm nay ộc hôm nay ốn độc hôm nay ộc hôm nay ộc hôm nay ộc hôm nay ộc hôm nay ộc hôm nay ộc hôm nay ộc hôm nay ộc hôm nay ộc hông có gì !",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Dự báo cho Exeter tuần tới không có sương mù.",
+    "response": " Bời tiời tiốn muốn muốn đờiờiời tiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " không có giờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiất đờiờiờiờiờiờiờiờiờiờiờiờiời đờiờiờiờiờiờiờiờiờiờiờiờiời đười đười đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuần này, nhiệt độ cao nhất ở Cleveland sẽ là 100 độ F vào thứ Bảy.",
+    "response": " Không có giở đất đất đất độc nhộc nhất độc nhất độc hất độc nhất độc nhất độc độc đưộc nhộc đưộc đưất đưất đưất đưộc đất đưất đất đưất đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có giất độ cao ngày ờ chiất đưột độc giất đưột đưất đất đưất đưất đưất đưột đưột đưột đưất đưất đưưạn đưưưột đưết đưột đườiời đưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn có 3 cuộc hẹn khám mắt đã được lên lịch: một với Marie vào ngày mùng 2, một với Martha vào thứ Bảy, và một với anh/em trai của bạn vào ngày 16.",
+    "response": " Tông có giột đột đột đột đột đột đột đột đất đột đột đột đột đưột đưất đưất đưột đưột đưột đưạn đưột đưột đưất đưột đưất đư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở new_york, thứ Hai và thứ Ba sẽ mưa, thứ Tư có tuyết, thứ Năm trời gió, thứ Sáu có sương giá, thứ Bảy có sương, và Chủ Nhật trời u ám.",
+    "response": " Bạn đờ chiờiốn đờiờiạn đờiết đờiờiớiờiờiờiờiết đờiờiờiờiờiờiờiết đết đườiờiờiờiờiờiờiờiờiờiờiạn đờiờiờiờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì đâu, patience!",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có ùn tắc giao thông đến pizza_my_heart tại 528_anton_ct. Quãng đường khoảng 6_miles.",
+    "response": " đờng có giần đất đờng có giờiời đờiất đất đườiờiạn đưất đườiời đưất đất đưất đờiời đưất đưất đưạn đưất đư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đã chọn tuyến đường nhanh nhất không có ùn tắc đến pizza_my_heart. Chúc một ngày tốt lành.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Có một Chef Chu's và một Tai Pan.",
+    "response": " Bạn muạn muốn muốn muốnh phốn đây ốây ở đây ở đây ốây ở San Francisco thốn đây ở San Francisco ,",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đó là Chef Chu's.",
+    "response": " Không có giất đây ột đất đây đây ột đột đột đất đột đột đất đột đưất đưột đưột đưột đưất đưột đưột đưột đưất đột đưột đột đưột đưưột đưộ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chef Chu's ở 593_arrowhead_way.",
+    "response": " Không có giột đột đột đột đột đột đột đột đạn đột đưột đột đưất đưột đột đưưạn đưột đột đột đưột đưưột đưột đưột đưột đưột đưột đưưư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờ chiộc đờ chiờ chiờ chiất đất đờ chiờ chiờ chiất đờ chiờ chiạn đạn đờ chiạn đờ chiất đờ chiạn đờ chiờ chiờ chiạn đạn đờiạn đờng có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn xem thời tiết ở thành phố nào?",
+    "response": " Bết ở thết ở thết ở thàn muở thành phời tiời tiời tiờiết ờiời tiết ở San Francisco thờiờiờiờiờiờiờiờiờiết ờiờiờiờiết đờiờiết đườiờiết điờiờiờiết điết đư",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " ở Manhattan, trời sẽ có bão vào thứ Tư và thứ Năm",
+    "response": " Không có giờiờiờiờiờiờiờiờiờiờiờiờiờiết đết đườiờiờiờiờiờiờiờiờiết đườiờiờiờiờiờiờiờiời đờiờiời đười đờiờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giờiờiứ Ba báo thứ Baứ Baết đứ Baạn đứ Baứ Baất đứ Baứ Baứ Baứ Baứ Baứ Ba ứ Baứ Baứ Baứ Baứ Baứ Ba ờiứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baạn đứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baờiứ Baứ Baạ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tiệm pizza gần nhất không kẹt xe cách 3_miles tại 113_anton_ct. Bạn có muốn đi đến Round_Table không?",
+    "response": " Không có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Los Angeles, thứ Ba sẽ ấm.",
+    "response": " Không có gìn muần muết ở Los Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles Angeles",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có giứ Ba vào thứ Ba có giứ Ba mơnhứ Ba sất đứ Ba đứ Ba đất đã đứ Ba mơn đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đã đất đạn đứ Ba đất đứ Ba ứ Baứ Baứ Baất đây giạn đứ Baạn đất đứ Baứ Baứ Baứ Baứ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nhà của bạn ở 56_cadwell_street",
+    "response": " đất đốốây .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " không có giờiờ chiất vào ngào thờ chiờ chiờ chiờ chiất đờ chiứ Ba đờiờ chiất đất đờiất đất đờiất đười đưất đạn đời đờiời đời đời đười đười �",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " đặt chỗ bữa tối của bạn là lúc 5 giờ chiều",
+    "response": " đờiở đở đở đốốặt đặt đớiờ chiớiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiặt đời đờiặt đườiặt đườiời đặt đời điờiời đời�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, cuộc hẹn khám răng với bố của bạn vào mùng 1 lúc 2 giờ chiều đã được đặt",
+    "response": " Không có giộc hông có giộc hông có giờiộc giặt lúc giộc hông có giộc giặt lúc giộc giộc giộc giặt vào ngào ngào ngào ngào ngày lúc giặt lúc giộc lúc giộc giặt lúc giộc giặt lúc giộc giờiộc giặt lào có gi",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Lịch hẹn đi bơi của bạn vào ngày nào và lúc mấy giờ?",
+    "response": " Bặt lặt lốn muốn muốn đặt lốn lốn lặt lốn lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi đã thêm lịch hẹn đi bơi vào lịch của bạn vào Thứ Năm lúc 10 giờ sáng.",
+    "response": " Không có giờiặt lúc đặt lúc đặt đờiặt lúc lúc lúc đơn lúc lúc lúc lúc lúc lúc lúc đưặt lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lời lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lú",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " thời tiết ở cleveland vào thứ năm sẽ có sương và nhiệt độ cao nhất là 30f",
+    "response": " Bời tiời tiời tiời tiời ở Cleveland .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì !",
+    "response": " Không có giất đứ Baờ chiờ chiứ Ba đứ Baứ Baứ Ba đứ Baứ Baứ Baứ Baứ Baứ Baứ Baết vào thứ Baết đứ Baứ Baứ Baứ Baứ Ba thứ Baứ Baứ Baết vào thứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nhiệt độ ở Seattle tuần này sẽ cao và những ngày nóng nhất là Thứ Hai và Thứ Ba, lên tới 100°F (nhưng hãy chú ý, trời cũng sẽ mưa đấy).",
+    "response": " Bốn muốn muốn muốn muốn muốn đốn đờiốn đờiờiờiờiốn đờiờiờiờiờiờiờiờiờiờiờiờiất đờiờiờiờiất đờiất đờiờiờiờiời điờiờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nhiệt độ cao nhất ở Boston cuối tuần này sẽ ở mức 90 độ, trong khi nhiệt độ thấp nhất dự kiến là khoảng 70 độ.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì, rất vui vì tôi có thể giúp được.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " được rồi, đang lên lịch một buổi bơi lội với anh trai của bạn vào ngày mùng 7 lúc 11 giờ sáng",
+    "response": " không có giộc lúc lúc lúc hông có giột lúc lúc lúcó giộc lúc giộc hông có giúc lúc lúcó giộcó giộc lúc lúc lúcó giộc giộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lú",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " rất vui được giúp đỡ",
+    "response": " Không có giạn lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lào lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lú",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " stanford_shopping_center cách đây 4 dặm.",
+    "response": " Không có giờiốn đây mây .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được thôi, bạn sẽ được hướng dẫn đến stanford_shopping_center tại 773_alger_dr, nằm cách đó 4 dặm.",
+    "response": "",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hiện tại bạn có lịch uống thuốc hai lần. Một lần vào ngày 13 lúc 4 giờ chiều cùng với mẹ bạn, và lần còn lại vào thứ Hai lúc 11 giờ sáng cùng với Marie.",
+    "response": " Không có giờiất vào ngào thời tiờ chiờiờiất vào thờiờiất lúc giờiờiờiờiờiờiất vào thờiờiất vào thờiờiờiờiờiờiờiờiờiất vào thờiờiờiờiờiờiời",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " HR sẽ có mặt tại cuộc họp thứ Sáu.",
+    "response": " Bốn muốn muộc hốn đốộc sẽ có giộc hẽ có giộc hộc hẽ có giộc giộc giộc giộc giộc giộc giộc giộc giộc giộc giẽ có giẽ có giẽ có giộc giộc giẽ có giẽ có giẽ có g",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " dự báo thời tiết cho biết rằng trời sẽ có giông bão ở Los_Angeles vào Chủ Nhật",
+    "response": " Không có giời tiời tiở Los Angeles Angeles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_m",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giờ chiờ chiờ chiờ chiất đờ chiờ chiờ chiờ chiờ chiờ chiờ chiất đườ chiạn đờ chiờ chiờ chiật đườ chiờ chiờ chiạn đờ chiất đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờiờ chiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Lịch hẹn xét nghiệm tiếp theo của bạn là vào thứ Hai tới lúc 2 giờ chiều.",
+    "response": " không có mưa bốn muốn lúc lúc hông có giốn lúc hông có mưa báo ngày lúcó giốn lúcó giờ chiờ chiộc lúcó giộcó giộc giộc lúcó giúcó giộcó giộc lúc giất lúc giúc giất lúc giúc lúc giộc giộc lúc giộc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " ok, đang đặt lịch hẹn nha sĩ với Ana vào ngày mùng 8 lúc 1 giờ chiều",
+    "response": " đốặt lúc lúc lúc lúc lúc lúc lúc lúc lúc hờ chiờ chiờ chiặt lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " rất vui được giúp bạn",
+    "response": " Không có giềuờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiứ Baứ Baặt đặt đứ Baứ Baặt đứ Ba ứ Baặt lúc giứ Baứ Baứ Baứ Baứ Baặt lúc lào thặt lúc lúc bứ Baứ Baờiứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baặt lào thứ Ba",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " có một travelers_lodge cách đó 1 dặm",
+    "response": " ở đần đột đần đột đần đột đột đột đột đột đột đột đột đột đột đột đột đột đưột đất đưột đưạn đưột đưạn đưột đưột đưạn đưa đ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " travelers_lodge 333_arbol_dr",
+    "response": " Không có giột đờ chiần đột đột đột đột đột đột đột đất đột đất đưột đưột đưột đưạn đưạn đưột đưột đưất đưột đưột đưột đưột đưột đưưư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " GPS đã được thiết lập cho lộ trình ngắn nhất",
+    "response": " Không có giột đột đột đột đột đột đột đưột đưột đưạn đưạn đột đưạn đưột đưạn đưột đưột đưột đột đột đưạn đưột đưạn đưưạn đn đn đưưư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " chúc một ngày tốt lành",
+    "response": " Không có gì",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn sẽ chơi tennis vào 11 giờ sáng thứ Sáu.",
+    "response": " Khôi tiốn muốn muốn muốn muốn muốn muốn muốn tôi tiốn đốiốiốn đốiốiất đốiốiốiất đốiờiốiờiờiở điở điở điờiở điất điở điất điở điở điất điở điở �",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn có hai cuộc hẹn nha sĩ, một với dì của bạn và một với chị/em gái của bạn, cả hai đều vào thứ Hai",
+    "response": " đết đây đâuộc hông có giộc hông có giộc hông có giộc hông có giộc giộcó giộcó giất độc giộc giất đã độc hông có giộc giộc giất đã đã đã đã đã độc giộc giộc giất đã đã đã đ�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " rất vui khi có thể hỗ trợ bạn",
+    "response": " không có giộc nhất đất độc độc độc độc độc hông có giộc độc đời độc bộc gì .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn có bốn buổi tập yoga đã được lên lịch; một buổi vào thứ Hai với Alex, hai buổi vào thứ Sáu (một với Sister và một với Marie), và một buổi vào ngày 17 với Martha.",
+    "response": " Bập đời tiủn đủa bật đủa báo ngày vào ngày vào thứ Ba vào ngào ngày vào ngày giứ Ba vào ngào ngày .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được, đang đặt lịch Uống thuốc với Martha vào 5 giờ chiều thứ Tư tuần tới",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hoạt động Uống thuốc đã được đặt lịch vào 5 giờ chiều thứ Tư tuần tới",
+    "response": " Không có giờ chiứ Baờ chiờ chiứ Ba ứ Baứ Ba ờ chiứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba ứ Ba ứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baặt đứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba ứ Baứ Baứ Baứ Baứ Baứ Baứ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết thời tiết của thành phố nào?",
+    "response": " Bời tiời tiời tiời tiời tiời tiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời ờiờiờiờiờiờiờiờiờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hiện tại ở Fresno không có mây.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết đờiờiờiờiờiờiờiờiờiờiờiờiời đờiờiờiờiời đờiờiờiờiờiờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không tìm thấy quán Starbucks nào trong khu vực này, nhưng tôi có một quán cà phê khác được liệt kê. Bạn có muốn địa chỉ của nó không?",
+    "response": " Tôi tiết đạn muốn muốn muốn tôi tiất đứ Ba đốây ủn đất đờiủa đất đớiủa báo ngày ất vào ngào thủn đất đờ chiất đờ chiờ chiất đất đướiất đờiới đưạn đợc đất đưấ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Vậy thì, chúng ta sẽ đến Cafe_Venetia, 269_Alger_Dr.",
+    "response": " Không có gì",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Điểm đến cách 4_miles và không có kẹt xe.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có Starbucks nào gần đây nhưng có hai quán khác; một là Coupa cách 6_miles và quán còn lại là Cafe_Venetia cách 3_miles. Bạn muốn đi quán nào?",
+    "response": " Bời tiết đười đười đườiời đườiờiết đưưưưườiờiời đờiờiờiờiờiờiết đưưườiờiờiờiờiết đưườiất đưưười đườiời đưết đưưưư",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cafe_Venetia nằm ở 269_alger_dr với tình hình giao thông tắc_nghẽn, có được không?",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi đã gửi thông tin lên màn hình của bạn, lái xe cẩn thận nhé!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết tuyết rơi ở khu vực nào ạ?",
+    "response": " Bết ốn muốn muốn muốn muốn muốn đết đết đốở San Francisco lúc hông có giờ chiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết đườiết đườiờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không, hôm nay Corona không có tuyết rơi; dự báo thời tiết là ẩm ướt với nhiệt độ thấp nhất 70f và cao nhất 90f.",
+    "response": " Khôm nào ngày ở San Francisco sờ chiốn đờ chiờ chiờ chiở San Francisco sờ chiờ chiờ chiết vào thở San Francisco giờ chiờ chiờ chiết vào thở Sanf ,",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì, chúc bạn một ngày tốt lành.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết thông tin thời tiết của thành phố nào?",
+    "response": " Bốn muốn muốn muở đưưở đưốn đưở đưở đưất đở San Francisco , đưở San Francisco .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Dự báo thời tiết cho Oakland hiện tại không cho thấy có mưa.",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiất đườ chiờ chiờ chiất đườ chiờ chiạn đờ chiạn đườ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờiời đưườiờiờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giốưưường có giờiết đưạn đưết đưưười đườiạn đườiờiời đưưườiời đườiờiời đườiời đưưưưưưưưưưưưưưưưưạn đưưưưưưưưưưưư",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " tôi sẽ lên lịch một cuộc họp lúc 6 giờ tối vào ngày mùng 10 với đội sales_team",
+    "response": " Không có giộc lúc lúc lúc lúc lúc hông có giộc lúcó giộc lúcó giộc giộcó giộcó giộc lúc giộc giộc lúc giộc lúc giộc lúc giạn lúc giộc giộc lúc lúc lúc lúc lúc lúc lúc giộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lú",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " được rồi, đang đặt lời nhắc uống thuốc của bạn với Ana vào 7 giờ tối thứ Ba",
+    "response": " Không có giờiờiặt lúc lúc lúc giờiờiờiờiờiặt lúc giờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giờiờiờiứ Ba bờiờiứ Ba bứ Baứ Ba vào thứ Baặt lào thờiứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baặt lào thứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " lời nhắc của bạn đã được đặt vào thứ Bảy lúc 2 giờ chiều để uống thuốc với Martha",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chúng tôi cách Chef Chu's 3 dặm và cách Mandarin Roots 6 dặm.",
+    "response": " Bạn muết ốn muốn muốn muốn đây ốnhốn muốnhốn đất ốn đốốn đốốất đốớiốốn đở đớiờ chiờ chiờ chiớiốn đất đờ chiờ chiờ chiất đất đất đất đờ chiờ chiờ chiờ chiạn đư",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chef Chu's gần hơn.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chef Chu's nằm ở 593 Arrowhead Way.",
+    "response": " Không có gì",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chef Chu's cách đây 3 dặm và đường đang tắc nghẽn vừa phải.",
+    "response": " Không có gì",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có gì",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở đây không có Starbucks nào, nhưng chúng ta cách Cafe_Venetia 4 dặm. Bạn có muốn đến đó không?",
+    "response": " Bạn muết ở San Francisco Francisco Francisco Francisco Francisco Francisco Francisco Francisco Francisco Francisco .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi đã gửi địa chỉ cùng với tuyến đường nhanh nhất lên màn hình rồi, lái xe cẩn thận nhé!",
+    "response": " Không có gì !",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi không thể định vị Starbucks. Có một quán cà phê/trà tên Coupa cách đó mấy dặm.",
+    "response": " Bết đết đười đườiời đườiết đườiết đườiờiết đờiờiờiờiờiờiết đườiờiờiờiờiết đưưưết đưườiờiời đườiờiết đưết đườiờ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Coupa cách 1 dặm với giao thông đông đúc. Sẽ không mất nhiều thời gian đâu. Địa chỉ là 394 Van Ness Ave.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Sáng hay chiều?",
+    "response": " Bạn muốn muốn muốn muốn muốn muốn muốn muốn muốn đốốiờiốn lúc lúc lúc hông có giốn lúc hông có giốn lúc lúc giốn lúc giờiờiờiờiờiắc bờiốiắc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc gi�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Lời nhắc đi bơi đã được đặt cho ngày the_12th lúc 4 : 50 chiều",
+    "response": " Không có giốiờiắc hông có giở San Francisco vào ngày lúcó giờiờiắc giờiờiờiờiớiờiờiờiờiờiờiờiờiờiờiờiờiời điờiờiạn điờiờiời đi điời đờiời điờiời đ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " Không có giờiờiờiờiờiờiờiều có giờiờiờiờiốiắc đờiời đạn đườiắc đười đười đười đườiời đưưười đười đưười đưười đưườiời đưưưưư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hiện tại có tuyết ở San Francisco.",
+    "response": " Thốn muốn muốn muở thàn muốn tời tiời tiời tiời tiết ờiờiờiết ờiờiờiết ờiờiờiờiờiờiờiờiờiờiờiờiết ờiờiờiết điờiờiết điết điết điờiết đi�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " Không có giờiờiờiết đờiờiết đờiết đờiớiờiờiờiết đết đờiết điờiờiờiờiết điờiết điết điờiết điờiết điờiờiờiết điờiết đi điờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cái nào? Tôi có hai cuộc, một với bố bạn vào ngày mùng 3, và một với Tom vào ngày mùng 9",
+    "response": " Không có giờiất đất độc hông có giộc hông có giộcó giộcó giộcó giộcó giộcó giộcó giộcó giất vào thộc giộc giất độc giất đưất đưất đưộc giộc giộc giộc giộc giạn",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cuộc hẹn vào ngày mùng 9 là lúc 3 giờ chiều",
+    "response": " Không có giộc đưưộc đưất đưất đưất đưộc đưất đưộc đưộc độc đưộc đưộc đưộc độc .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " hội nghị diễn ra vào ngày nào và mấy giờ?",
+    "response": " Bặt lời tiốn muốn muốn muốn muốn lúc hặt lúc hờiặt lúc lúc lúc hờiờiộc hặt lúc hộc lúc lúc lúc hộc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " tôi đã thiết lập lời nhắc hội nghị đó cho bạn rồi. Bạn có cần gì nữa không?",
+    "response": " Không có giở San Francisco giờiờiờiặt lúc giờiặt lúc giờiờiờiặt lúc giờiờiặt lúc giặt lúc giờiặt lúc giặt lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lời có giờ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " lời nhắc của bạn về hội nghị với executive_team vào ngày 14 tháng 8 lúc 4 giờ chiều đã được thiết lập xong",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hoạt động tennis của bạn sẽ diễn ra lúc 11am với Jon tham gia.",
+    "response": " không có giết lúc giờiờiờiờiờiờiờiờiờiờiết đờiờiờiờiờiờiờiờiờiờiờiờiờiến điờiờiờiờiờiờiời đời đờiờiờiờiời đời�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " không có giờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiết đờ chiết đờ chiờ chiờ chiờiờiờiết đờiời đờiờiời đời đời đờiờiờiờiờiờiết đết đườ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " ở san_mateo thì thứ Bảy sẽ có bão, và Chủ Nhật thì có mưa đá.",
+    "response": " Không có mưưưưưưưưa báo thời tiời tiết đờiờiết đờiết đờiờiờiết đờiờiờiờiết đờiờiờiết đờiết điết đườiết điờiết đờiờiờiờiết đi�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giở San Francisco_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn biết về thành phố nào",
+    "response": " Bạn muốn muốn muốn muốn muốn muốn đột đột đột đột đết đột đột đột đột đột đột đột đột đột đột đưất đưột đưột đưất đưột đưất đưất đưột đư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " nhiệt độ ở los_angeles tuần này thấp nhất là 40f và cao nhất sẽ là 100f",
+    "response": " Không đột đất độc nào thột đột đột đột đột đột đột đột đột đất đột đột đột đưột đất đưất đột đưất đưột đưột đưột đưột đưột đưất đưột đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì, chúc bạn một ngày tốt lành",
+    "response": " Không có giột đột đột đờ chiột đột đưột đột đưột đưột đưột đột đưột đưột đưột đưột đưột đưột đưột đưưột đưột đưột đưột đn đưưột đưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " vào thứ Sáu lúc 3 giờ chiều",
+    "response": " không có giết đờiột độc hông có giộc hông có giột đột đột đột đột đột đột đất đột đột đất đưột đưột đưột đưưết đưất đưất đạn đưột đư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn xem ở đâu ạ?",
+    "response": " Bời tiốn muời tiốn muời tiời tiờiết lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lú",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Camarillo sẽ có bão vào thứ Ba.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " không có giờiờ chiờiất lúcó giờiờiờiờiất đờiất lúc đườiờiờiờiờiờiờiờiờiờiết đờiất đất lúc lúc lúc lúc lúc lào thờiờiời đườiời đười đườiờiạn lày",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " được rồi, tôi đang lên lịch một cuộc họp với sếp của bạn vào ngày mùng 5 tháng này lúc 1 giờ chiều",
+    "response": " Không có giộc giộc lúc lúc hông có giộc hông có giộc giộc lúcó giộcó giộc giộcó giộcó giộc giất lúc giộc giất lúc giộc giất lúc giộc giất lúc giộc giộc lúc lúc lúc giộc giộc giộc lúc giộc gi�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có giất lúc lúc lúc giạn lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúp lúc lúc lúc lúc lúc lúc lày lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " được rồi, đang đặt lịch một buổi tennis với Martha vào thứ Sáu lúc 4 giờ chiều",
+    "response": " độc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lú",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giờ chiờ chiộc giờ chiứ Ba vào thộc lúc giứ Baứ Baờ chiứ Baứ Baặt đưứ Baứ Baặt lúc đứ Baứ Baứ Baứ Baứ Baứ Baốứ Baứ Baứ Baứ Baứ Baờiứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Baứ Ba�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Atherton sẽ không có gió trong vài ngày tới.",
+    "response": " Bời tiời tiở đở thày ở thày ở Cleveland .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " Không có giở San Francisco trong có giớiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiất đất đơiờiớiờiất đờiạn đờiờiờiờiờiờiờiờiờiạn đờiờiờiời đời đờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " travelers_lodge nằm cách đây 4 dặm tại 333_arbol_dr. Bạn có muốn chỉ đường đến đó không?",
+    "response": " Không có giủn đây_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, tôi đang thiết lập GPS đến 333_arbol_dr.",
+    "response": " Không có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì, chúc bạn một ngày tốt lành.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, đang đặt lời nhắc cho hoạt động tennis của bạn lúc 5pm ngày the_10th với jon",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giớiờng có giặt đườ chiờ chiờ chiờng có giờiặt đặt đờiờiờiặt đờiờiờiời đờiờiặt đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nhà của Jack ở 864_almanor_ln.",
+    "response": " Bốn muở thàn muốn muốn muở đây ở đở đở đốở đốở đốở đất đở đở đở đở đở đở đở đở đở đở đưất đưở đở đưở đưất đất đưất đưất đưở đưở đ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang dẫn đường đến nhà của Jack.",
+    "response": " Không có giất đở đờ chiở đở đở đất đở đở đở đất đất đưở đưở đưở đưất đưất đưất đưở đường đười đưưở đười đưưưưưở đưở đở đưưưưười đ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi đã gửi tất cả thông tin lên màn hình của bạn, lái xe cẩn thận nhé!",
+    "response": " không có gì",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được thôi, cuộc nào ạ? Tôi có một cuộc vào ngày 12 lúc 9 giờ sáng, và một cuộc vào ngày 4 lúc 5 giờ chiều",
+    "response": " không có giột đột đột đột đột đột đột đất đột đưất đưột đưột đất đưột đưất đưột đưưưất đưột đưất đưạn đưột đưột đưột đưột �",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì ạ",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết trời có mưa ở thành phố nào không?",
+    "response": " Bời tiời tiời tiời tiời tiời tiời tiờiờiời tiời tiất ờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Trời sẽ mưa vào thứ Tư tại redwood_city",
+    "response": " Không có giờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời đờiờiời đườiờiạn đời đờiờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì, tạm biệt.",
+    "response": " Không có giờ chiờ chiất đờ chiờ chiờ chiờ chiờ chiất đờ chiờ chiờ chiờ chiờ chiờiất đờ chiờ chiờ chiờ chiờiờiờiờiờiờiờiạn đưẽ đời đườiờiờiạn đờiờiờiờiờiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " stanford_express_care ở gần đây",
+    "response": " Bốn muốn muốn muốn muốn biốn đốn đốều ở đốở thất đở đở đở thất đở đờ chiở đở đở đất đở đở đở đở đất đưất đở đưở đưở đưất đưở đưất đưở đư",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " stanford_express_care có bị kẹt xe gần đó không?",
+    "response": " không có gì",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " tuyến đường đến stanford_express_care có kẹt xe nặng",
+    "response": " Không có gì",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " có, stanford_childrens_health cách đây 1_miles và không bị kẹt xe. bạn có muốn địa chỉ không?",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " tôi xin lỗi, tôi đã làm rồi và tôi đã gửi địa chỉ trên màn hình của bạn, lái xe cẩn thận!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " cafe_venetia cách 2 dặm tại 269_alger_dr",
+    "response": "",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang thiết lập điều hướng cho tuyến đường nhanh nhất. Có đường bị chặn gần đó, vì vậy hãy lái xe cẩn thận",
+    "response": "",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cuộc họp tiếp theo của bạn là vào thứ Hai lúc 3 giờ chiều.",
+    "response": " không có giờiốn đờ chiộc hông có giờiộc hông có giốiộc giộcó giộcó giộcó giộcó giộcó giộc giộc giộc giộc giộc giộc giộc giộc giộc giến giết lào thạn giộc giộc giết đ�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết nhiệt độ ở thành phố nào?",
+    "response": " Bần muốn muốn muốn muở thành phết đốn đột đột đất đột đột đột đột đột đất đột đột đột đột đột đưất đưột đưất đưất đưất đưột đưất đưột đưạ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Nhiệt độ thấp nhất ở Fresno tuần này dự kiến là 60F, cao nhất là 100F",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " Không có giờ chiột đột đột đưất đưột đưết đưất đưất đưới đưột đưột đưột đưười đưạn đời đười đười đưạn đời đưưườiạn đưưưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết thời tiết của thành phố nào?",
+    "response": " Bời tiời tiời tiời tiờiờiời tiết ờiết ờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời điờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ngày mai ở Seattle trời sẽ có gió.",
+    "response": " không có giờiờiờiết đờiờiết đờiờiờiờiờiờiờiết đờiờiờiờiờiết đưết đờiết đết đờiờiời đờiết đườiời đờiời đời đưười đờiết đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có giờiờiờiờiờiờiờiờiờiờiết đườiết đườiờiờiờiờiết đờiờiờiết đười đời đười đưưưưưười đưưưưưưưưưưưưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn dự báo cho ngày nào ạ?",
+    "response": " Không có mưưưưưưưưưưa báo thời tiời tiết đờiờiết đờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết đườiờiết đờiờiờiờiời đết đờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Trời sẽ không khô ráo ở Redwood City vào tuần tới.",
+    "response": " không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Thứ Hai ở Fresno sẽ có nhiệt độ cao nhất là 90f.",
+    "response": " Bốn muốn muốn muốn đốẽ có giẽ có giột đột đột đột ột đột đột đột đẽ đưột đẽ đột đẽ đưột đưẽ đưẽ đưẽ đưẽ đưột đưẽ đưột đưột đưột đưẽ đ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giứ Ba vào nhiứ Baứ Ba đẽ có giứ Ba vào ngào ngào ngào ngào ngào ngào ngào ngào thứ Baứ Ba ,",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " được rồi, tôi đang đặt lịch một buổi bơi với Tom vào ngày mùng 6 lúc 2 giờ chiều",
+    "response": " đốốn đốốốn lúc lúc đớiặt lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giờ chiặt lúc lúc lúc lúc lúc lúc giớiờiờiờiờiới đườiờiờiờiớiời đười đười đười đườiời đưốưưườiời lúc lày lày lúc lày lúc lày lày lày lày lúc lày lày lày lày lày lày l",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi sẽ ghi lại cuộc hẹn khám mắt của bạn vào ngày 12 lúc 5 giờ chiều.",
+    "response": " Khôm nào ngào ?",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " midtown_shopping_center là trung tâm mua sắm gần bạn nhất. Bạn có muốn địa chỉ không?",
+    "response": " đết đờiời đột đết đết đờiết đềuột đột đờiết đưột đột đột đưột đưột đưết đưột đưột đưết đưột đưột đư�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chúng ta sẽ đến 338_alester_ave, có tắc đường nặng nhưng nó chỉ cách 2 dặm.",
+    "response": " Không có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " đang gửi địa chỉ của midtown_shopping_center tại 338_alester_ave đến GPS của bạn",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Trận bóng đá là vào thứ Tư lúc 10 giờ sáng.",
+    "response": " Bạn muận muạn muốn biạn muốn muật ở đặt đật đốật đất đất đờiờiờiờiất đất đờiờiờiờiờiất đất đất đất đờiờiất đưất đưạn đưất đất đưật đ�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất hân hạnh.",
+    "response": " đật đờiứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đứ Ba đạn đất đứ Ba đứ Ba đứ Ba đứ Baứ Baứ Baật đứ Baứ Baứ Ba đứ Baạn đứ Baứ Baứ Baạn đứ Baật đạn đứ Ba�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Whole Foods cách đây 4 dặm.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đường nhanh nhất đến Whole Foods tại 819_alma_street không có ùn tắc giao thông.",
+    "response": " không có giờ chiờ chiềuờ chiờ chiờ chiờ chiều đờ chiạn đờ chiờ chiờ chiạn đờ chiạn đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiạn đờ chiạn đời đờiờ chiờiờiời đạn �",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " GPS đã được thiết lập, chúc quý khách một ngày tốt lành.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Coupa ở gần đây và có phục vụ trà.",
+    "response": " không đở đở đết đở đột đờiết đột đột đột đột đột đột đột đột đột đưột đưột đưột đưột đưột đưết đưết đưột đưết đưột đột đưột đ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Giao thông vừa phải đến Coupa.",
+    "response": " Không có giết đớiết đột đột đột đột đột đột đưột đưột đưột đưột đưột đưột đưết đưột đưưột đưột đưưưột đưột đưột đưột đưưột đưột đ�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Địa chỉ của Coupa là 394_van_ness_ave.",
+    "response": " Không có giờ chiết đờ chiờ chiờ chiờ chiến đờ chiến đướiến đờ chiớiờ chiời đến đờiết đờiờiờiờiờiờiờiời đờiờiờiờiời đờiờiờiờiờiời đờiờiờiờiời�",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không, nhưng Palo Alto Cafe chỉ cách 1 dặm và có giao thông vừa phải, nên chúng ta sẽ đến đó nhanh hơn. Nghe thế nào?",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được, đang bắt đầu điều hướng.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " được, đang đặt lịch hẹn cho yoga",
+    "response": " Bặt lặt lốn muặt lặt lốn lốn lặt lốn lặt lặt lốn lốn lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn đang hỏi về thành phố nào vậy?",
+    "response": " Bết đết đốn muốn muốn muốn đốn đết đẽ đốết đết đốốốn đở đềuở đở đở đở đở đở đết đở đở đở đở đưở đưở đưết đưết đưở đưở đưở đư",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Thứ Hai trời sẽ có sương mù, với nhiệt độ thấp nhất là 30f và cao nhất là 40f. Tương tự vậy.",
+    "response": " Không có giờ chiứ Ba vào ngào ngày mây ứ Ba vào ngào thứ Ba vào ngào thứ Ba vào thứ Ba ,",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn hỏi về thành phố nào?",
+    "response": " Bết ời tiời tiời tiời tiời tiời tiờiờiời tiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết ờiờiờiờiờiờiờiờiờiết điờiờiờiết điờiết đi�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ngày mai ở Atherton sẽ không nóng, trời sẽ khô ráo, nhiệt độ thấp nhất 30f, cao nhất 50f",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn tôi cung cấp thông tin thời tiết ở đâu?",
+    "response": " Bời tiời tiời tiời tiời tiời tiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hôm nay ở san_jose trời sẽ nhiều mây, cũng có trời quang đãng.",
+    "response": " Không có giờiờiất đờiất đờiờiờiất đờiờiờiất vào thông có giờiờiờiờiạn đờiất đườiờiờiất đườiờiờiờiờiờiờiời đườiời đờiời đờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Quán cà phê gần nhất là Coupa nhưng đang có kẹt xe nghiêm trọng, bạn có muốn tìm địa điểm khác không?",
+    "response": " Bạn muạn muạn muạn muốn muốn muốn muốn muốn muờiất ở San Francisco ,",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Starbucks ở 792_bedoin_street cách 3 dặm và không có kẹt xe.",
+    "response": " Không có gì",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang gửi chỉ đường cho bạn đây.",
+    "response": " Không có gì !",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ngày mai ở San Francisco trời sẽ ấm áp, không có gió đâu.",
+    "response": " Không có gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió gió g",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờiờiờiờiờiờiờiờiờiờiờiờiờiất đờiờiờiờiờiờiờiất đã đờiờiất đườiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời đi đời đ�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn biết dự báo thời tiết cho thành phố nào?",
+    "response": " Bốn muốn muốn muốn đở đốn đốết đờiở San Francisco ,",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " ngày mai Los_Angeles sẽ có tuyết, nhiệt độ thấp nhất 70f và cao nhất 90f",
+    "response": " Không có giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đờ chiết đờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chi�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giờ chiờ chiờ chiết đờ chiờ chiờ chiờ chiờ chiết lúc hông có giết đết đườiới đười đưưưưưưười đưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn có một cuộc họp vào ngày 13 lúc 9 giờ sáng với HR.",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " Không có giột lúc giột vào ngào ngày .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cuộc họp của bạn được lên lịch vào 2 giờ chiều ngày mai. Nội dung là để thảo luận về việc sáp nhập.",
+    "response": " Cuời tiộc hông có giộc hông có giộc hông có giộc hông có giộcó giộcó giộcó giộcó giộcó giộcó giộc giộc giộcó giộc giộc giộc giộc giạn đưộc giộc giộc giộc giất đưộc giộc giộc gi�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giộc hông có giộc giạn lúc giộc giộc đưộc lúc giất lúc hông có giộc lúc hộc lúc lúc lúc lúc hờiộc lày lào thộc gì .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đã đặt lời nhắc cho cuộc hẹn xét nghiệm lúc 6 giờ chiều vào ngày 3 tháng 8 với Alex",
+    "response": " Không có giốn lúc giốn lúcó giờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiặt lúc đườiờiờiờiờiời điờiờiờiờiờiời đườiời đời�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi có thể cung cấp thông tin thời tiết cho thành phố nào ạ?",
+    "response": " Bốn muốn muốn muốn muốn muốn muốn đốn đất ờiốn đấp đở đần đở đần đở đở đở đở đở đở đở đất đở đưở đưở đưở đưở đưở đưất đưất đưở đưở đư",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Dự báo tuyết sẽ rơi ở San_Jose vào thứ Năm tuần này.",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì ạ.",
+    "response": " Không có giứ Baứ Baạn đứ Baứ Baứ Baứ Baứ Baất đạn đứ Baứ Baất đứ Baứ Baạn đứ Baứ Baạn đứ Baẽ đứ Baứ Baạn đây nào thông có gì .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Lịch hẹn tiếp theo của bạn với bác sĩ nhãn khoa là vào thứ Ba lúc 11 giờ sáng.",
+    "response": " Không có giờ chiết lúcó giết lúcó giết lúcó giờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiờ chiết đạn đờ chiờ chiờ chiờ chiờ chiạn lúc bạn đờ chiờ chiờ chiờ chiạn lúc giết lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc giờ chi�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, đang lên lịch một football_activity với Tom vào thứ Sáu lúc 10 giờ sáng.",
+    "response": " đờiờiời tiặt lúc hờiời nhờiờiờiốiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiặt lúc đặt đườiời đờiặt điờiờiờiờiờiời điờiời đời",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ.",
+    "response": " Không có giờiờiờiờiặt lúc giặt lúc giờiớiờiờiờiờiặt đờiờiờiờiời đườiặt đờiờiờiờiời đười đời đời đời đờiờiờiờiờiờiờiờiờiờiờ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " bệnh viện gần đây duy nhất là stanford_express_care, cách đây 5_miles",
+    "response": " không có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " hiện tại có một road_block_nearby trên tuyến đường 5_miles đến stanford_express_care",
+    "response": " không có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " tuyến đường duy nhất đến stanford đang báo có road block nhưng tôi đang tìm cho bạn tuyến đường nhanh nhất đến 214_el_camino_real",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì; lái xe an toàn, và giữ gìn sức khỏe nhé",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, đang đặt lời nhắc cho cuộc hẹn khám bác sĩ vào ngày mùng mười, bạn có muốn tôi thêm giờ không?",
+    "response": " không có mưười đờiặt lúc hông có giờiộc hông có giờiộc giộcó giộcó giộcó giộcó giộc giộcó giộc giặt lúc giộc giộc giặt lúc giộc giộc giộc giộc giộc giộc giộc giộc giộc giộc",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tuyệt vời, tôi đã đặt cuộc hẹn khám bác sĩ của bạn vào ngày mười hai lúc 1 giờ chiều.",
+    "response": " Không có giặt đườiặt đời đười đưặt đờiời đưứ Baờiời đời đặt đờiờiời đười đườiời đặt đười đưưườiờiờiờiờiời đườiờiờiờiặt đưườ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chúng ta cách trung tâm mua sắm Town and County 3 dặm. Nghe có vẻ ổn không ạ?",
+    "response": " Không đườ chiờ chiời đất đưất đờiờiờiời đất đờiất đườiờiất đườiời đưất đườiời đất đưười đười đời đời đờ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Vâng, đúng vậy.",
+    "response": " không có gì .",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Town and Country tọa lạc tại 383 University Ave.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Chúc quý khách một ngày tốt lành.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn cần xem nhiệt độ 2 ngày tới ở thành phố nào?",
+    "response": " Không có mơn muốn muốn đây ốn độc này ờiất đột độc nào ngày mơng có giộc hông có giột đột đột đất đột đơn đột đột đưột đưột đơn đột đưột đất đơn đơn đơn đơn đơn đơ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở grand_rapids, hôm nay nhiệt độ sẽ là 50f - 70f và ngày mai là 20f - 40f.",
+    "response": " Không có giốất đớiờ chiột đột đột đột đất đột đột đột đưột đưất đưột đưột đưất đưất đưất đưột đưạn đưột đưưưưột đưưưưưưưưưưưưột đư",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giờ chiột đột đột đạn đưột đất đất đất đưột đột đưất đưới đưột đưột đưột đười đưất đưưột đười đười đưột đưạn đưưườiạn đườiố",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn biết thành phố nào hôm nay có tuyết không?",
+    "response": " Không có mưa báo thông có mưa báo thông có mưa báo thông có mưa báo thông có giờiời tiết đờiờiết đờiờiờiờiờiờiết đờiờiờiờiờiờiờiết đờiờiờiờiờiờiết đờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " hôm nay trời sẽ ấm ở Oakland",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì!",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hoạt động bơi của bạn là vào ngày mùng 5, cùng với bố bạn",
+    "response": " Bốn muốn muốn đốây ở Oakland vào thốn đờ chiờ chiờ chiở San Francisco sờ chiẽ có giở San Francisco giẽ có giờ chiở San Francisco vào ngào ngày vào ngào ngào ngày .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Rất vui được giúp đỡ",
+    "response": " Không có giộc giờ chiốơn đột đưộc giộc giờ chiột đơn đưộc giộc bộc giất đơn đươn đơn đơn đơn đơn đơn đưất đười đơn đưột đưưười đười đười đưư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Lịch hẹn xét nghiệm của bạn là lúc 7 giờ tối với Jon và một lịch khác lúc 2 giờ chiều với Alex.",
+    "response": " không có giờiốiộc giờiốiờiờiớiất lúc giờiờiớiờiờiờiờiờiất lúc giờiờiờiất lúc giờiất lúc gi điất lúc lúc lúc lúc lúc lúc giờiờiất lúc lúc lúc lúc lúc lúc",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giớiệt lúc lúc lúc lúc lúc giờ chiất lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lúc lốưưưưưưưưưưưưưưưưưưưưư",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi có vài nhà hàng Trung Quốc được liệt kê. Bạn muốn tìm hiểu về nhà hàng nào?",
+    "response": " Bạn muốn muốn muốn muốn muốnhốn muết ốnhốn nào ?",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " P._F._Changs cách 3_miles nhưng hiện đang kẹt xe nặng trên đường. Panda_Express xa hơn, cách 4_miles, nhưng lại không có kẹt xe.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đúng vậy, Panda_Express có vẻ là nhanh nhất.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được thôi! Đang chỉ đường đến Panda_Express tại 842_arrowhead_way",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Cuộc họp tiếp theo của bạn là với sếp vào ngày the_5th lúc 2pm",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " không có giờ chiộc hông có giộc hông có giộc giộc hông có giết đưộc giộc hông có giộc giộc hông có giộc giộc gì .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết thành phố nào có mưa không?",
+    "response": " Bết ốn muốn muốn muốn muốn muốn muốn đờiốn đốấp đốờiờiốn đờiở đờiờiớiờiờiờiất đờiờiờiờiờiờiờiờiờiờiờiờiời đến đờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hôm nay ở Fresno không có mưa nhưng trời sẽ nhiều mây.",
+    "response": " Không có mưa báo thất đờ chiờ chiờ chiờ chiờng có giất đờ chiờ chiờ chiờ chiất đờ chiờ chiất đờ chiất đờ chiờ chiờ chiờ chiất đất đất đờ chiất đờ chiờ chiết đườ chiờ chiờ chiờ chiờ chiờ chiạn đờ chiờ chiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Tôi có hai lịch, bạn muốn cái nào? Có một lịch vào ngày 14 lúc 6 giờ tối và một lịch vào ngày 12 lúc 7 giờ tối.",
+    "response": " đột đờiột đờiết đột đột đột đột đột đột đột đột đột đột đưột đưột đưột đưất đưột đưưột đưột đưột đưưưạn đưưột đưột đư",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì!",
+    "response": " Không có giất lúc giạn lúc đười đười đớiờiời đười đườiết đườiời đườiời đười đưườiờiời đưưười đưưưưưưưưưưưưưưưưưưưưưưưư�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " tôi có thể dự báo thời tiết cho thành phố nào ạ?",
+    "response": " Bết ở thàn muời tiời tiời tiời tiời tiời tiời tiờiời tiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết đườiờiờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Hôm nay Oakland sẽ khô ráo.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì!",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " được rồi, đang sắp xếp một cuộc họp với sếp của bạn để duyệt báo cáo quý vào ngày mùng 5 lúc 6 giờ tối",
+    "response": " Không có giộc giột độc giột đột đột đột vào ngày giột vào ngày .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " bạn muốn tôi kiểm tra thời tiết ở grand_rapids vào ngày cụ thể nào không?",
+    "response": " Bết ở thời tiời tiời tiời tiời tiở thành phở thành phết ở San Francisco vào thở San Francisco thờiở San Francisco trờiở San Francisco thở San Francisco thở San Francisco trở San Francisco thở San Francisco thở San Francisco trở San Francisco thở San Francisco thở San Francisco thở Sanf thở Sanf thở Sanf thở Sanf thở Sanf thở Sanf thết thết thở Sanf",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " ở grand_rapids vào thứ Sáu trời sẽ có gió, nhiệt độ từ 60f - 70f",
+    "response": " Không có giứ Haiứ Ba ứ Ba ứ Ba ứ Ba ứ Ba thứ Ba ứ Ba ứ Ba ứ Ba vào thứ Ba vào thứ Ba vào thứ Ba thết đưết đưết đưết đưết đứ Baứ Baứ Baứ Ba ứ Baết đưứ Baứ Baứ Baứ Baứ Baứ Ba ứ Baứ Baứ Baứ Baứ Baết ứ Baứ Baứ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " Không có giết đết đờiất đờiết đờiết đườiết đời đười đời đời đười đời đời đưết đưưườiờiết đn đn đưười đn đn đn đn đn đưưết đn đn đn đn đn đn đn đn",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn có muốn biết thời tiết hiện tại không?",
+    "response": " Bết ở đở thết ở San Francisco thời tiời tiết ở San Francisco thờiời tiời tiờiết ở San Francisco thờiờiờiờiết ờiở San Francisco thở San Francisco thết đở San Francisco thết đưở San Francisco thở Sanf .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Dự báo thời tiết hôm nay là có sương mù, nhiệt độ thấp nhất 40f và cao nhất 60f.",
+    "response": " Không có giờiờiờiờiờiờiết đờiờiờiờiết đờiờiờiờiờiờiờiờiết điờiến điờiờiờiời đưết đết điết đờiời đờiời đời đời đời điờiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết thông tin thời tiết ở thành phố nào?",
+    "response": " Không có mưa báo thông có mưa báo thông có mưa báo thông có giời tiời tiời tiờiờiời nay ờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiời đờiờiời�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Có, dự báo cho thấy new_york sẽ có mưa hôm nay.",
+    "response": " không có giờiờiờiờiờiờiờiờiờiờiờiờiờiết đờiạn đờiờiờiết đờiờiờiờiạn đờiờiờiờiờiờiạn đờiờiờiờiờiờiờiờiờiờiờiời đờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì",
+    "response": " Không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " cuộc hẹn của bạn vào ngày nào?",
+    "response": " ở đạnhốn muốnhốnh phộc hông có giờiộc nào ?",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " lời nhắc đã được đặt cho cuộc hẹn với bác sĩ của bạn vào 7 giờ tối thứ Hai",
+    "response": " Không có giờ chiờ chiất vào thờ chiờ chiờ chiắc giứ Baất vào thứ Baất vào thứ Baạn có giứ Baất đờiờiất vào thờiạn đờiờiạn đạn đờiờiờiời đạn đờiờiờiờiờiờiạn đạn đờ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " hôm nay ở redwood_city trời nhiều mây",
+    "response": " Bở San Francisco sết đạn tông có giở San Francisco , tông có mây ở San Francisco sết đở San Francisco lúcó giở San Francisco giở San Francisco vào thở San Francisco , đất đở San Francisco giất vào thở San Francisco giở San Francisco giết đưất vào thất đưở Sanf .",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " không, hôm nay ở redwood_city không có tuyết rơi",
+    "response": " Không có giờ chiở San Francisco_city_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_miles_",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " rất vui được giúp đỡ",
+    "response": " không có gì",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn đến stanford_shopping_center cách 7_miles và không tắc đường hay ravenswood_shopping_center cách 1_miles nhưng có rào chắn đường gần đó?",
+    "response": " đốn đốn đốn đốết đờiết đết đốết đớiờiốn đớiớiớiờiờiết đớiờiớiờiết đết đờiết đưết đết đớiết đết đưết đười đưết đưới đư",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Đang thiết lập chỉ đường đến 434_arastradero_rd.",
+    "response": " không có gì !",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " ",
+    "task": "navigate"
+  },
+  {
+    "id": "",
+    "ground_truth": " Có giao thông vừa phải trên lộ trình 4 dặm về nhà bạn ở 56_cadwell_street",
+    "response": " đối đều vào đều đã đã đã đã đều vào đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đã đ",
+    "task": "dẫn đường"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì; bạn lái xe cẩn thận nhé",
+    "response": " Không có giất đềuờiềuời đềuời đất đạn đườiạn đời đời đứ Baời đời đời đời đời đời đời đời đời đời đ�",
+    "task": "dẫn đường"
+  },
+  {
+    "id": "",
+    "ground_truth": " Luôn sẵn lòng",
+    "response": " ",
+    "task": "dẫn đường"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, đã đặt lời nhắc cho buổi tennis với Martha lúc 10 giờ sáng. Ngày diễn ra sự kiện tennis đã lên lịch là khi nào?",
+    "response": " Bốn muốn muời tiời tiờiốnhời tiời tiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiạn",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, đang đặt lời nhắc cho buổi tennis của bạn với Martha lúc 10 giờ sáng vào tuần cuối tháng 3",
+    "response": " Không có giờiờiờ chiờiờiờiờiờiờiờiờiờiờiờiờiời đườiờiạn lào thời đườiời đườiờiờiời đạn lúc hông có giờiờiạn lày lào thờiờiờiờiờiờiờiời�",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " không có gì",
+    "response": " ",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Bạn muốn biết dự báo thời tiết ở thành phố nào?",
+    "response": " Bết ở thàn muời tiời tiời tiời tiời ở đờiờiờiờiết đờiờiờiết đờiờiờiờiờiờiờiờiờiờiờiờiờiết đờiờiờiờiết điờiết điết điờiờiờiết đ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Ở Cleveland sẽ không có gió vào tuần tới.",
+    "response": " Không có giờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiờiết đườiờiết đười đưết đờiờiờiờiết đườiết đưườiời đườiờiời đườiờiờ",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì.",
+    "response": " Không có giết đườ chiờ chiờ chiờ chiờ chiết đườiờ chiất đẽ không có giết đườiết đườiờiời đười đờiời đờiết đờiờiời đờiờiờiờiờiờiết đưưưưưưưưưưưư�",
+    "task": "weather"
+  },
+  {
+    "id": "",
+    "ground_truth": " Được rồi, đang đặt lịch một cuộc họp với đội ngũ điều hành vào ngày 15 lúc 9 giờ sáng",
+    "response": " Không có giộc hông có giặt lúcó giột lúc .",
+    "task": "schedule"
+  },
+  {
+    "id": "",
+    "ground_truth": " Không có gì bạn nhé",
+    "response": " Không có giặt đưặt đưộc lột đưộc lúc đột độc độc đưộc độc đời độc hộc đặt đười đưưưười đưưộc lày lày giờiờiột lày giờiờiộc giờiột lày giờiột làn đư�",
+    "task": "schedule"
+  }
+]
