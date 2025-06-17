@@ -12,7 +12,7 @@
   "learning_rate": 6.25e-5,
   "adam_epsilon": 1e-8,
   "max_grad_norm": 1,
-  "num_train_epochs": 5,
+  "num_train_epochs": 7,
   "warmup_steps": 0,
   "fp16": "",
   "seed": 42
